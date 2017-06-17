@@ -1,0 +1,16412 @@
+999
+dxfrw 0.6.3
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1021
+  9
+$DWGCODEPAGE
+  3
+ANSI_1252
+  9
+$INSBASE
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$EXTMIN
+ 10
+-121.5000000000002
+ 20
+-121.5
+ 30
+0
+  9
+$EXTMAX
+ 10
+121.5000000000002
+ 20
+121.5
+ 30
+0
+  9
+$LIMMIN
+ 10
+0
+ 20
+0
+  9
+$LIMMAX
+ 10
+420
+ 20
+297
+  9
+$ORTHOMODE
+ 70
+    0
+  9
+$REGENMODE
+ 70
+    1
+  9
+$FILLMODE
+ 70
+    1
+  9
+$QTEXTMODE
+ 70
+    0
+  9
+$MIRRTEXT
+ 70
+    0
+  9
+$LTSCALE
+ 40
+1
+  9
+$ATTMODE
+ 70
+    0
+  9
+$TEXTSIZE
+ 40
+2.5
+  9
+$TRACEWID
+ 40
+15.68
+  9
+$TEXTSTYLE
+  7
+STANDARD
+  9
+$CLAYER
+  8
+0
+  9
+$CELTYPE
+  6
+BYLAYER
+  9
+$CECOLOR
+ 62
+  256
+  9
+$CELTSCALE
+ 40
+1
+  9
+$DISPSILH
+ 70
+    0
+  9
+$DIMSCALE
+ 40
+2.5
+  9
+$DIMASZ
+ 40
+2.5
+  9
+$DIMEXO
+ 40
+0.625
+  9
+$DIMDLI
+ 40
+3.75
+  9
+$DIMRND
+ 40
+0
+  9
+$DIMDLE
+ 40
+0
+  9
+$DIMEXE
+ 40
+1.25
+  9
+$DIMTP
+ 40
+0
+  9
+$DIMTM
+ 40
+0
+  9
+$DIMTXT
+ 40
+2.5
+  9
+$DIMCEN
+ 40
+2.5
+  9
+$DIMTSZ
+ 40
+0
+  9
+$DIMTOL
+ 70
+    0
+  9
+$DIMLIM
+ 70
+    0
+  9
+$DIMTIH
+ 70
+    0
+  9
+$DIMTOH
+ 70
+    0
+  9
+$DIMSE1
+ 70
+    0
+  9
+$DIMSE2
+ 70
+    0
+  9
+$DIMTAD
+ 70
+    1
+  9
+$DIMZIN
+ 70
+    8
+  9
+$DIMBLK
+  1
+
+  9
+$DIMASO
+ 70
+    1
+  9
+$DIMSHO
+ 70
+    1
+  9
+$DIMPOST
+  1
+
+  9
+$DIMAPOST
+  1
+
+  9
+$DIMALT
+ 70
+    0
+  9
+$DIMALTD
+ 70
+    3
+  9
+$DIMALTF
+ 40
+0.03937
+  9
+$DIMLFAC
+ 40
+1
+  9
+$DIMTOFL
+ 70
+    1
+  9
+$DIMTVP
+ 40
+0
+  9
+$DIMTIX
+ 70
+    0
+  9
+$DIMSOXD
+ 70
+    0
+  9
+$DIMSAH
+ 70
+    0
+  9
+$DIMBLK1
+  1
+
+  9
+$DIMBLK2
+  1
+
+  9
+$DIMSTYLE
+  2
+Standard
+  9
+$DIMCLRD
+ 70
+    0
+  9
+$DIMCLRE
+ 70
+    0
+  9
+$DIMCLRT
+ 70
+    0
+  9
+$DIMTFAC
+ 40
+1
+  9
+$DIMGAP
+ 40
+0.625
+  9
+$DIMJUST
+ 70
+    0
+  9
+$DIMSD1
+ 70
+    0
+  9
+$DIMSD2
+ 70
+    0
+  9
+$DIMTOLJ
+ 70
+    0
+  9
+$DIMTZIN
+ 70
+    8
+  9
+$DIMALTZ
+ 70
+    0
+  9
+$DIMALTTZ
+ 70
+    0
+  9
+$DIMUPT
+ 70
+    0
+  9
+$DIMDEC
+ 70
+    2
+  9
+$DIMTDEC
+ 70
+    2
+  9
+$DIMALTU
+ 70
+    2
+  9
+$DIMALTTD
+ 70
+    3
+  9
+$DIMTXSTY
+  7
+STANDARD
+  9
+$DIMAUNIT
+ 70
+    0
+  9
+$DIMADEC
+ 70
+    0
+  9
+$DIMALTRND
+ 40
+0
+  9
+$DIMAZIN
+ 70
+    0
+  9
+$DIMDSEP
+ 70
+   44
+  9
+$DIMATFIT
+ 70
+    3
+  9
+$DIMFRAC
+ 70
+    0
+  9
+$DIMLDRBLK
+  1
+STANDARD
+  9
+$DIMLUNIT
+ 70
+    2
+  9
+$DIMLWD
+ 70
+   -2
+  9
+$DIMLWE
+ 70
+   -2
+  9
+$DIMTMOVE
+ 70
+    0
+  9
+$DIMFXL
+ 40
+1
+  9
+$DIMFXLON
+ 70
+    0
+  9
+$DIMJOGANG
+ 40
+0.7854
+  9
+$DIMTFILL
+ 70
+    0
+  9
+$DIMTFILLCLR
+ 70
+    0
+  9
+$DIMARCSYM
+ 70
+    0
+  9
+$DIMLTYPE
+  6
+
+  9
+$DIMLTEX1
+  6
+
+  9
+$DIMLTEX2
+  6
+
+  9
+$LUNITS
+ 70
+    2
+  9
+$LUPREC
+ 70
+    4
+  9
+$SKETCHINC
+ 40
+1
+  9
+$FILLETRAD
+ 40
+0
+  9
+$AUNITS
+ 70
+    0
+  9
+$AUPREC
+ 70
+    2
+  9
+$MENU
+  1
+.
+  9
+$ELEVATION
+ 40
+0
+  9
+$PELEVATION
+ 40
+0
+  9
+$THICKNESS
+ 40
+0
+  9
+$LIMCHECK
+ 70
+    0
+  9
+$CHAMFERA
+ 40
+0
+  9
+$CHAMFERB
+ 40
+0
+  9
+$CHAMFERC
+ 40
+0
+  9
+$CHAMFERD
+ 40
+0
+  9
+$SKPOLY
+ 70
+    0
+  9
+$USRTIMER
+ 70
+    1
+  9
+$ANGBASE
+ 50
+0
+  9
+$ANGDIR
+ 70
+    0
+  9
+$PDMODE
+ 70
+   34
+  9
+$PDSIZE
+ 40
+0
+  9
+$PLINEWID
+ 40
+0
+  9
+$SPLFRAME
+ 70
+    0
+  9
+$SPLINETYPE
+ 70
+    2
+  9
+$SPLINESEGS
+ 70
+    8
+  9
+$HANDSEED
+  5
+20000
+  9
+$SURFTAB1
+ 70
+    6
+  9
+$SURFTAB2
+ 70
+    6
+  9
+$SURFTYPE
+ 70
+    6
+  9
+$SURFU
+ 70
+    6
+  9
+$SURFV
+ 70
+    6
+  9
+$UCSBASE
+  2
+
+  9
+$UCSNAME
+  2
+
+  9
+$UCSORG
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$UCSXDIR
+ 10
+1
+ 20
+0
+ 30
+0
+  9
+$UCSYDIR
+ 10
+0
+ 20
+1
+ 30
+0
+  9
+$UCSORTHOREF
+  2
+
+  9
+$UCSORTHOVIEW
+ 70
+    0
+  9
+$UCSORGTOP
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$UCSORGBOTTOM
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$UCSORGLEFT
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$UCSORGRIGHT
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$UCSORGFRONT
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$UCSORGBACK
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$PUCSBASE
+  2
+
+  9
+$PUCSNAME
+  2
+
+  9
+$PUCSORG
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$PUCSXDIR
+ 10
+1
+ 20
+0
+ 30
+0
+  9
+$PUCSYDIR
+ 10
+0
+ 20
+1
+ 30
+0
+  9
+$PUCSORTHOREF
+  2
+
+  9
+$PUCSORTHOVIEW
+ 70
+    0
+  9
+$PUCSORGTOP
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$PUCSORGBOTTOM
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$PUCSORGLEFT
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$PUCSORGRIGHT
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$PUCSORGFRONT
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$PUCSORGBACK
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$USERI1
+ 70
+    0
+  9
+$USERI2
+ 70
+    0
+  9
+$USERI3
+ 70
+    0
+  9
+$USERI4
+ 70
+    0
+  9
+$USERI5
+ 70
+    0
+  9
+$USERR1
+ 40
+0
+  9
+$USERR2
+ 40
+0
+  9
+$USERR3
+ 40
+0
+  9
+$USERR4
+ 40
+0
+  9
+$USERR5
+ 40
+0
+  9
+$WORLDVIEW
+ 70
+    1
+  9
+$SHADEDGE
+ 70
+    3
+  9
+$SHADEDIF
+ 70
+   70
+  9
+$TILEMODE
+ 70
+    1
+  9
+$MAXACTVP
+ 70
+   64
+  9
+$PINSBASE
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$PLIMCHECK
+ 70
+    0
+  9
+$PEXTMIN
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$PEXTMAX
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$SNAPSTYLE
+ 70
+    0
+  9
+$PLIMMIN
+ 10
+0
+ 20
+0
+  9
+$PLIMMAX
+ 10
+297
+ 20
+210
+  9
+$UNITMODE
+ 70
+    0
+  9
+$VISRETAIN
+ 70
+    1
+  9
+$PLINEGEN
+ 70
+    0
+  9
+$PSLTSCALE
+ 70
+    1
+  9
+$TREEDEPTH
+ 70
+ 3020
+  9
+$CMLSTYLE
+  2
+Standard
+  9
+$CMLJUST
+ 70
+    0
+  9
+$CMLSCALE
+ 40
+20
+  9
+$PROXYGRAPHICS
+ 70
+    1
+  9
+$MEASUREMENT
+ 70
+    1
+  9
+$CELWEIGHT
+370
+   -1
+  9
+$ENDCAPS
+280
+    0
+  9
+$JOINSTYLE
+280
+    0
+  9
+$LWDISPLAY
+290
+    0
+  9
+$INSUNITS
+ 70
+    4
+  9
+$HYPERLINKBASE
+  1
+
+  9
+$STYLESHEET
+  1
+
+  9
+$XEDIT
+290
+    1
+  9
+$CEPSNTYPE
+380
+    0
+  9
+$PSTYLEMODE
+290
+    1
+  9
+$EXTNAMES
+290
+    1
+  9
+$PSVPSCALE
+ 40
+1
+  9
+$OLESTARTUP
+290
+    0
+  9
+$SORTENTS
+280
+  127
+  9
+$INDEXCTL
+280
+    0
+  9
+$HIDETEXT
+280
+    1
+  9
+$XCLIPFRAME
+290
+    0
+  9
+$HALOGAP
+280
+    0
+  9
+$OBSCOLOR
+ 70
+  257
+  9
+$OBSLTYPE
+280
+    0
+  9
+$INTERSECTIONDISPLAY
+280
+    0
+  9
+$INTERSECTIONCOLOR
+ 70
+  257
+  9
+$DIMASSOC
+280
+    1
+  9
+$PROJECTNAME
+  1
+
+  9
+$CAMERADISPLAY
+290
+    0
+  9
+$LENSLENGTH
+ 40
+50
+  9
+$CAMERAHEIGHT
+ 40
+0
+  9
+$STEPSPERSEC
+ 40
+2
+  9
+$STEPSIZE
+ 40
+50
+  9
+$3DDWFPREC
+ 40
+2
+  9
+$PSOLWIDTH
+ 40
+5
+  9
+$PSOLHEIGHT
+ 40
+80
+  9
+$LOFTANG1
+ 40
+1.570796326794897
+  9
+$LOFTANG2
+ 40
+1.570796326794897
+  9
+$LOFTMAG1
+ 40
+0
+  9
+$LOFTMAG2
+ 40
+0
+  9
+$LOFTPARAM
+ 70
+    7
+  9
+$LOFTNORMALS
+280
+    1
+  9
+$LATITUDE
+ 40
+1
+  9
+$LONGITUDE
+ 40
+1
+  9
+$NORTHDIRECTION
+ 40
+0
+  9
+$TIMEZONE
+ 70
+-8000
+  9
+$LIGHTGLYPHDISPLAY
+280
+    1
+  9
+$TILEMODELIGHTSYNCH
+280
+    1
+  9
+$SOLIDHIST
+280
+    1
+  9
+$SHOWHIST
+280
+    1
+  9
+$DWFFRAME
+280
+    2
+  9
+$DGNFRAME
+280
+    0
+  9
+$REALWORLDSCALE
+290
+    1
+  9
+$INTERFERECOLOR
+ 62
+    1
+  9
+$CSHADOW
+280
+    0
+  9
+$SHADOWPLANELOCATION
+ 40
+0
+  0
+ENDSEC
+  0
+SECTION
+  2
+CLASSES
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+VPORT
+  5
+8
+330
+0
+100
+AcDbSymbolTable
+ 70
+    1
+  0
+VPORT
+  5
+31
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbViewportTableRecord
+  2
+*ACTIVE
+ 70
+    0
+ 10
+0
+ 20
+0
+ 11
+1
+ 21
+1
+ 12
+189.3087369147474
+ 22
+120.4260095555545
+ 13
+0
+ 23
+0
+ 14
+10
+ 24
+10
+ 15
+10
+ 25
+10
+ 16
+0
+ 26
+0
+ 36
+1
+ 17
+0
+ 27
+0
+ 37
+0
+ 40
+464.6021197054529
+ 41
+1.471370143149284
+ 42
+50
+ 43
+0
+ 44
+0
+ 50
+0
+ 51
+0
+ 71
+    0
+ 72
+  100
+ 73
+    1
+ 74
+    3
+ 75
+    0
+ 76
+    1
+ 77
+    0
+ 78
+    0
+281
+    0
+ 65
+    1
+110
+0
+120
+0
+130
+0
+111
+1
+121
+0
+131
+0
+112
+0
+122
+1
+132
+0
+ 79
+    0
+146
+0
+348
+10020
+ 60
+    7
+ 61
+    5
+292
+1
+282
+    1
+141
+0
+142
+0
+ 63
+  250
+421
+3358443
+  0
+ENDTAB
+  0
+TABLE
+  2
+LTYPE
+  5
+5
+330
+0
+100
+AcDbSymbolTable
+ 70
+    4
+  0
+LTYPE
+  5
+14
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByBlock
+ 70
+    0
+  3
+
+ 72
+   65
+ 73
+    0
+ 40
+0
+  0
+LTYPE
+  5
+15
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByLayer
+ 70
+    0
+  3
+
+ 72
+   65
+ 73
+    0
+ 40
+0
+  0
+LTYPE
+  5
+16
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+Continuous
+ 70
+    0
+  3
+Solid line
+ 72
+   65
+ 73
+    0
+ 40
+0
+  0
+LTYPE
+  5
+32
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DOT
+ 70
+    0
+  3
+Dot . . . . . . . . . . . . . . . . . . . . . .
+ 72
+   65
+ 73
+    2
+ 40
+6.35
+ 49
+0
+ 74
+    0
+ 49
+-6.35
+ 74
+    0
+  0
+LTYPE
+  5
+33
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DOTTINY
+ 70
+    0
+  3
+Dot (.15x) .....................................
+ 72
+   65
+ 73
+    2
+ 40
+0.9525
+ 49
+0
+ 74
+    0
+ 49
+-0.9525
+ 74
+    0
+  0
+LTYPE
+  5
+34
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DOT2
+ 70
+    0
+  3
+Dot (.5x) .....................................
+ 72
+   65
+ 73
+    2
+ 40
+3.175
+ 49
+0
+ 74
+    0
+ 49
+-3.175
+ 74
+    0
+  0
+LTYPE
+  5
+35
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DOTX2
+ 70
+    0
+  3
+Dot (2x) .  .  .  .  .  .  .  .  .  .  .  .  .
+ 72
+   65
+ 73
+    2
+ 40
+12.7
+ 49
+0
+ 74
+    0
+ 49
+-12.7
+ 74
+    0
+  0
+LTYPE
+  5
+36
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHED
+ 70
+    0
+  3
+Dashed _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+ 72
+   65
+ 73
+    2
+ 40
+19.05
+ 49
+12.7
+ 74
+    0
+ 49
+-6.35
+ 74
+    0
+  0
+LTYPE
+  5
+37
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHEDTINY
+ 70
+    0
+  3
+Dashed (.15x) _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+ 72
+   65
+ 73
+    2
+ 40
+2.8575
+ 49
+1.905
+ 74
+    0
+ 49
+-0.9525
+ 74
+    0
+  0
+LTYPE
+  5
+38
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHED2
+ 70
+    0
+  3
+Dashed (.5x) _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+ 72
+   65
+ 73
+    2
+ 40
+9.524999999999999
+ 49
+6.35
+ 74
+    0
+ 49
+-3.175
+ 74
+    0
+  0
+LTYPE
+  5
+39
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHEDX2
+ 70
+    0
+  3
+Dashed (2x) ____  ____  ____  ____  ____  ___
+ 72
+   65
+ 73
+    2
+ 40
+38.09999999999999
+ 49
+25.4
+ 74
+    0
+ 49
+-12.7
+ 74
+    0
+  0
+LTYPE
+  5
+3A
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHDOT
+ 70
+    0
+  3
+Dash dot __ . __ . __ . __ . __ . __ . __ . __
+ 72
+   65
+ 73
+    4
+ 40
+25.4
+ 49
+12.7
+ 74
+    0
+ 49
+-6.35
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-6.35
+ 74
+    0
+  0
+LTYPE
+  5
+3B
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHDOTTINY
+ 70
+    0
+  3
+Dash dot (.15x) _._._._._._._._._._._._._._._.
+ 72
+   65
+ 73
+    4
+ 40
+3.81
+ 49
+1.905
+ 74
+    0
+ 49
+-0.9525
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-0.9525
+ 74
+    0
+  0
+LTYPE
+  5
+3C
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHDOT2
+ 70
+    0
+  3
+Dash dot (.5x) _._._._._._._._._._._._._._._.
+ 72
+   65
+ 73
+    4
+ 40
+12.7
+ 49
+6.35
+ 74
+    0
+ 49
+-3.175
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-3.175
+ 74
+    0
+  0
+LTYPE
+  5
+3D
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHDOTX2
+ 70
+    0
+  3
+Dash dot (2x) ____  .  ____  .  ____  .  ___
+ 72
+   65
+ 73
+    4
+ 40
+50.8
+ 49
+25.4
+ 74
+    0
+ 49
+-12.7
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-12.7
+ 74
+    0
+  0
+LTYPE
+  5
+3E
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DIVIDE
+ 70
+    0
+  3
+Divide ____ . . ____ . . ____ . . ____ . . ____
+ 72
+   65
+ 73
+    6
+ 40
+31.75
+ 49
+12.7
+ 74
+    0
+ 49
+-6.35
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-6.35
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-6.35
+ 74
+    0
+  0
+LTYPE
+  5
+3F
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DIVIDETINY
+ 70
+    0
+  3
+Divide (.15x) __..__..__..__..__..__..__..__.._
+ 72
+   65
+ 73
+    6
+ 40
+4.7625
+ 49
+1.905
+ 74
+    0
+ 49
+-0.9525
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-0.9525
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-0.9525
+ 74
+    0
+  0
+LTYPE
+  5
+40
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DIVIDE2
+ 70
+    0
+  3
+Divide (.5x) __..__..__..__..__..__..__..__.._
+ 72
+   65
+ 73
+    6
+ 40
+15.875
+ 49
+6.35
+ 74
+    0
+ 49
+-3.175
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-3.175
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-3.175
+ 74
+    0
+  0
+LTYPE
+  5
+41
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DIVIDEX2
+ 70
+    0
+  3
+Divide (2x) ________  .  .  ________  .  .  _
+ 72
+   65
+ 73
+    6
+ 40
+63.5
+ 49
+25.4
+ 74
+    0
+ 49
+-12.7
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-12.7
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-12.7
+ 74
+    0
+  0
+LTYPE
+  5
+42
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+BORDER
+ 70
+    0
+  3
+Border __ __ . __ __ . __ __ . __ __ . __ __ .
+ 72
+   65
+ 73
+    6
+ 40
+44.45
+ 49
+12.7
+ 74
+    0
+ 49
+-6.35
+ 74
+    0
+ 49
+12.7
+ 74
+    0
+ 49
+-6.35
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-6.35
+ 74
+    0
+  0
+LTYPE
+  5
+43
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+BORDERTINY
+ 70
+    0
+  3
+Border (.15x) __.__.__.__.__.__.__.__.__.__.__.
+ 72
+   65
+ 73
+    6
+ 40
+6.6675
+ 49
+1.905
+ 74
+    0
+ 49
+-0.9525
+ 74
+    0
+ 49
+1.905
+ 74
+    0
+ 49
+-0.9525
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-0.9525
+ 74
+    0
+  0
+LTYPE
+  5
+44
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+BORDER2
+ 70
+    0
+  3
+Border (.5x) __.__.__.__.__.__.__.__.__.__.__.
+ 72
+   65
+ 73
+    6
+ 40
+22.225
+ 49
+6.35
+ 74
+    0
+ 49
+-3.175
+ 74
+    0
+ 49
+6.35
+ 74
+    0
+ 49
+-3.175
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-3.175
+ 74
+    0
+  0
+LTYPE
+  5
+45
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+BORDERX2
+ 70
+    0
+  3
+Border (2x) ____  ____  .  ____  ____  .  ___
+ 72
+   65
+ 73
+    6
+ 40
+88.89999999999999
+ 49
+25.4
+ 74
+    0
+ 49
+-12.7
+ 74
+    0
+ 49
+25.4
+ 74
+    0
+ 49
+-12.7
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-12.7
+ 74
+    0
+  0
+LTYPE
+  5
+46
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+CENTER
+ 70
+    0
+  3
+Center ____ _ ____ _ ____ _ ____ _ ____ _ ____
+ 72
+   65
+ 73
+    4
+ 40
+50.8
+ 49
+31.75
+ 74
+    0
+ 49
+-6.35
+ 74
+    0
+ 49
+6.35
+ 74
+    0
+ 49
+-6.35
+ 74
+    0
+  0
+LTYPE
+  5
+47
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+CENTERTINY
+ 70
+    0
+  3
+Center (.15x) ___ _ ___ _ ___ _ ___ _ ___ _ ___
+ 72
+   65
+ 73
+    4
+ 40
+7.62
+ 49
+4.7625
+ 74
+    0
+ 49
+-0.9525
+ 74
+    0
+ 49
+0.9525
+ 74
+    0
+ 49
+-0.9525
+ 74
+    0
+  0
+LTYPE
+  5
+48
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+CENTER2
+ 70
+    0
+  3
+Center (.5x) ___ _ ___ _ ___ _ ___ _ ___ _ ___
+ 72
+   65
+ 73
+    4
+ 40
+28.575
+ 49
+19.05
+ 74
+    0
+ 49
+-3.175
+ 74
+    0
+ 49
+3.175
+ 74
+    0
+ 49
+-3.175
+ 74
+    0
+  0
+LTYPE
+  5
+49
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+CENTERX2
+ 70
+    0
+  3
+Center (2x) ________  __  ________  __  _____
+ 72
+   65
+ 73
+    4
+ 40
+101.6
+ 49
+63.5
+ 74
+    0
+ 49
+-12.7
+ 74
+    0
+ 49
+12.7
+ 74
+    0
+ 49
+-12.7
+ 74
+    0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+  5
+2
+330
+0
+100
+AcDbSymbolTable
+ 70
+    1
+  0
+LAYER
+  5
+10
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+0
+ 70
+    0
+ 62
+    7
+  6
+CONTINUOUS
+370
+   -3
+390
+F
+  0
+LAYER
+  5
+4A
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Anet A6 A8  Specific Upgrade
+ 70
+    0
+ 62
+    3
+  6
+CONTINUOUS
+370
+    0
+390
+F
+  0
+LAYER
+  5
+4B
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Anet A6 A8 Original
+ 70
+    0
+ 62
+    7
+  6
+CONTINUOUS
+370
+    0
+390
+F
+  0
+LAYER
+  5
+4C
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Anet A6 A8 Upgrade Alu Plastikjunkies
+ 70
+    0
+ 62
+    4
+  6
+CONTINUOUS
+370
+    0
+390
+F
+  0
+LAYER
+  5
+4D
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Anet A6 A8 Upgrade Aluminium
+ 70
+    0
+ 62
+    6
+  6
+CONTINUOUS
+370
+    0
+390
+F
+  0
+LAYER
+  5
+4E
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Anet A6 A8 Upgrade P3Steel
+ 70
+    0
+ 62
+    5
+  6
+CONTINUOUS
+370
+    0
+390
+F
+  0
+LAYER
+  5
+4F
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Prusa i3
+ 70
+    0
+ 62
+    1
+  6
+CONTINUOUS
+370
+    0
+390
+F
+  0
+LAYER
+  5
+50
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Tatra-RC2_Lasercut
+ 70
+    0
+ 62
+    2
+  6
+CONTINUOUS
+370
+    0
+390
+F
+  0
+ENDTAB
+  0
+TABLE
+  2
+STYLE
+  5
+3
+330
+0
+100
+AcDbSymbolTable
+ 70
+    3
+  0
+STYLE
+  5
+51
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+Standard
+ 70
+    0
+ 40
+0
+ 41
+1
+ 50
+0
+ 71
+    0
+ 42
+1
+  3
+txt
+  4
+
+  0
+ENDTAB
+  0
+TABLE
+  2
+VIEW
+  5
+6
+330
+0
+100
+AcDbSymbolTable
+ 70
+    0
+  0
+ENDTAB
+  0
+TABLE
+  2
+UCS
+  5
+7
+330
+0
+100
+AcDbSymbolTable
+ 70
+    0
+  0
+ENDTAB
+  0
+TABLE
+  2
+APPID
+  5
+9
+330
+0
+100
+AcDbSymbolTable
+ 70
+    1
+  0
+APPID
+  5
+12
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD
+ 70
+    0
+  0
+APPID
+  5
+52
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+LibreCad
+ 70
+    0
+  0
+ENDTAB
+  0
+TABLE
+  2
+DIMSTYLE
+  5
+A
+330
+0
+100
+AcDbSymbolTable
+ 70
+    1
+100
+AcDbDimStyleTable
+ 71
+    1
+  0
+DIMSTYLE
+105
+53
+330
+A
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+Standard
+ 70
+    0
+ 40
+1
+ 41
+2.5
+ 42
+0.625
+ 43
+0.38
+ 44
+1.25
+ 45
+0
+ 46
+0
+ 47
+0
+ 48
+0
+ 49
+1
+140
+2.5
+141
+0.09
+142
+2.5
+143
+25.4
+144
+1
+145
+0
+146
+1
+147
+0.625
+148
+0
+ 71
+    0
+ 72
+    0
+ 73
+    0
+ 74
+    1
+ 75
+    0
+ 76
+    0
+ 77
+    0
+ 78
+    1
+ 79
+    0
+170
+    0
+171
+    2
+172
+    0
+173
+    0
+174
+    0
+175
+    0
+176
+    0
+177
+    0
+178
+    0
+179
+    0
+271
+    2
+272
+    4
+273
+    2
+274
+    2
+275
+    0
+276
+    0
+277
+    2
+278
+    0
+279
+    0
+280
+    0
+281
+    0
+282
+    0
+283
+    1
+284
+    0
+285
+    0
+286
+    0
+288
+    0
+289
+    3
+340
+standard
+341
+
+371
+   -2
+372
+   -2
+  0
+ENDTAB
+  0
+TABLE
+  2
+BLOCK_RECORD
+  5
+1
+330
+0
+100
+AcDbSymbolTable
+ 70
+    2
+  0
+BLOCK_RECORD
+  5
+1F
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Model_Space
+ 70
+    0
+280
+    1
+281
+    0
+  0
+BLOCK_RECORD
+  5
+1E
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Paper_Space
+ 70
+    0
+280
+    1
+281
+    0
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+BLOCK
+  5
+20
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Model_Space
+ 70
+    0
+ 10
+0
+ 20
+0
+ 30
+0
+  3
+*Model_Space
+  1
+
+  0
+ENDBLK
+  5
+21
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+1C
+330
+1B
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Paper_Space
+ 70
+    0
+ 10
+0
+ 20
+0
+ 30
+0
+  3
+*Paper_Space
+  1
+
+  0
+ENDBLK
+  5
+1D
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+LWPOLYLINE
+  5
+54
+100
+AcDbEntity
+  8
+Anet A6 A8 Original
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    8
+ 70
+    1
+ 43
+0
+ 10
+-64.00000000000001
+ 20
+109
+ 10
+-106
+ 20
+109
+ 42
+0.4142135623730881
+ 10
+-109
+ 20
+106
+ 10
+-109
+ 20
+-106
+ 42
+0.4142135623730882
+ 10
+-106
+ 20
+-109
+ 10
+-64
+ 20
+-109
+ 42
+0.414213562373087
+ 10
+-61.00000000000001
+ 20
+-106
+ 10
+-61.00000000000001
+ 20
+106
+ 42
+0.4142135623730895
+  0
+LWPOLYLINE
+  5
+55
+100
+AcDbEntity
+  8
+Anet A6 A8 Original
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    8
+ 70
+    1
+ 43
+0
+ 10
+64.00000000000001
+ 20
+109
+ 10
+106
+ 20
+109
+ 42
+-0.4142135623730881
+ 10
+109
+ 20
+106
+ 10
+109
+ 20
+-106
+ 42
+-0.4142135623730883
+ 10
+106
+ 20
+-109
+ 10
+64
+ 20
+-109
+ 42
+-0.4142135623730908
+ 10
+61
+ 20
+-106
+ 10
+61
+ 20
+106
+ 42
+-0.4142135623730909
+  0
+LWPOLYLINE
+  5
+56
+100
+AcDbEntity
+  8
+Anet A6 A8 Original
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    8
+ 70
+    1
+ 43
+0
+ 10
+106
+ 20
+15
+ 10
+-106
+ 20
+15
+ 42
+0.4142135623730914
+ 10
+-109
+ 20
+12
+ 10
+-109
+ 20
+-12.00000022351742
+ 42
+0.4142135623730914
+ 10
+-106
+ 20
+-15.00000022351742
+ 10
+106
+ 20
+-15.00000022351742
+ 42
+0.4142135623730916
+ 10
+109
+ 20
+-12.00000022351742
+ 10
+109
+ 20
+12
+ 42
+0.4142135623730918
+  0
+CIRCLE
+  5
+57
+100
+AcDbEntity
+  8
+Anet A6 A8 Original
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-104.5
+ 20
+104.5
+ 40
+1.499999999999997
+  0
+CIRCLE
+  5
+58
+100
+AcDbEntity
+  8
+Anet A6 A8 Original
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+104.5
+ 20
+104.5
+ 40
+1.499999999999994
+  0
+CIRCLE
+  5
+59
+100
+AcDbEntity
+  8
+Anet A6 A8 Original
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+104.5
+ 20
+-104.5
+ 40
+1.500000000000002
+  0
+CIRCLE
+  5
+5A
+100
+AcDbEntity
+  8
+Anet A6 A8 Original
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-104.5
+ 20
+-104.5
+ 40
+1.499999999999997
+  0
+CIRCLE
+  5
+5B
+100
+AcDbEntity
+  8
+Anet A6 A8 Original
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-6.000000089406967
+ 20
+10.00000014901161
+ 40
+2
+  0
+CIRCLE
+  5
+5C
+100
+AcDbEntity
+  8
+Anet A6 A8 Original
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+6.000000089406967
+ 20
+10.00000014901161
+ 40
+2
+  0
+CIRCLE
+  5
+5D
+100
+AcDbEntity
+  8
+Anet A6 A8 Original
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+6.000000089406967
+ 20
+-10.00000014901161
+ 40
+1.999999999999999
+  0
+CIRCLE
+  5
+5E
+100
+AcDbEntity
+  8
+Anet A6 A8 Original
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-6.000000089406967
+ 20
+-10.00000014901161
+ 40
+2
+  0
+CIRCLE
+  5
+5F
+100
+AcDbEntity
+  8
+Anet A6 A8 Original
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-97.00000000000001
+ 20
+46.00000000000001
+ 40
+1.999999999999996
+  0
+CIRCLE
+  5
+60
+100
+AcDbEntity
+  8
+Anet A6 A8 Original
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-73
+ 20
+46.00000000000001
+ 40
+1.999999999999996
+  0
+CIRCLE
+  5
+61
+100
+AcDbEntity
+  8
+Anet A6 A8 Original
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-97.00000000000001
+ 20
+28.00000000000001
+ 40
+1.999999999999996
+  0
+CIRCLE
+  5
+62
+100
+AcDbEntity
+  8
+Anet A6 A8 Original
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-73
+ 20
+28.00000000000001
+ 40
+1.999999999999996
+  0
+CIRCLE
+  5
+63
+100
+AcDbEntity
+  8
+Anet A6 A8 Original
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-97.00000000000001
+ 20
+-28.00000000000001
+ 40
+1.999999999999996
+  0
+CIRCLE
+  5
+64
+100
+AcDbEntity
+  8
+Anet A6 A8 Original
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-73
+ 20
+-28.00000000000001
+ 40
+1.999999999999996
+  0
+CIRCLE
+  5
+65
+100
+AcDbEntity
+  8
+Anet A6 A8 Original
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-97.00000000000001
+ 20
+-46.00000000000001
+ 40
+1.999999999999996
+  0
+CIRCLE
+  5
+66
+100
+AcDbEntity
+  8
+Anet A6 A8 Original
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-73
+ 20
+-46.00000000000001
+ 40
+1.999999999999996
+  0
+CIRCLE
+  5
+67
+100
+AcDbEntity
+  8
+Anet A6 A8 Original
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+72.99999999999999
+ 20
+46.00000000000001
+ 40
+1.999999999999996
+  0
+CIRCLE
+  5
+68
+100
+AcDbEntity
+  8
+Anet A6 A8 Original
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+97
+ 20
+46.00000000000001
+ 40
+1.999999999999996
+  0
+CIRCLE
+  5
+69
+100
+AcDbEntity
+  8
+Anet A6 A8 Original
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+72.99999999999999
+ 20
+28.00000000000001
+ 40
+1.999999999999996
+  0
+CIRCLE
+  5
+6A
+100
+AcDbEntity
+  8
+Anet A6 A8 Original
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+97
+ 20
+28.00000000000001
+ 40
+1.999999999999996
+  0
+CIRCLE
+  5
+6B
+100
+AcDbEntity
+  8
+Anet A6 A8 Original
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+72.99999999999999
+ 20
+-28.00000000000001
+ 40
+1.999999999999996
+  0
+CIRCLE
+  5
+6C
+100
+AcDbEntity
+  8
+Anet A6 A8 Original
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+97
+ 20
+-28.00000000000001
+ 40
+1.999999999999996
+  0
+CIRCLE
+  5
+6D
+100
+AcDbEntity
+  8
+Anet A6 A8 Original
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+72.99999999999999
+ 20
+-46.00000000000001
+ 40
+1.999999999999996
+  0
+CIRCLE
+  5
+6E
+100
+AcDbEntity
+  8
+Anet A6 A8 Original
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+97
+ 20
+-46.00000000000001
+ 40
+1.999999999999996
+  0
+CIRCLE
+  5
+6F
+100
+AcDbEntity
+  8
+Anet A6 A8 Original
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-97.00000000000001
+ 20
+-7.5
+ 40
+1.999999999999996
+  0
+CIRCLE
+  5
+70
+100
+AcDbEntity
+  8
+Anet A6 A8 Original
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-97.00000000000001
+ 20
+7.5
+ 40
+1.999999999999996
+  0
+CIRCLE
+  5
+71
+100
+AcDbEntity
+  8
+Anet A6 A8 Original
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-73
+ 20
+0
+ 40
+1.999999999999996
+  0
+CIRCLE
+  5
+72
+100
+AcDbEntity
+  8
+Anet A6 A8 Original
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+73
+ 20
+0
+ 40
+1.999999999999996
+  0
+CIRCLE
+  5
+73
+100
+AcDbEntity
+  8
+Anet A6 A8 Original
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+97.00000000000001
+ 20
+7.5
+ 40
+1.999999999999996
+  0
+CIRCLE
+  5
+74
+100
+AcDbEntity
+  8
+Anet A6 A8 Original
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+97.00000000000001
+ 20
+-7.5
+ 40
+1.999999999999996
+  0
+LWPOLYLINE
+  5
+75
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+113.5
+ 20
+-72.5
+ 10
+113.5
+ 20
+-92.5
+ 42
+0.9999999999999999
+ 10
+117.5
+ 20
+-92.5
+ 10
+117.5
+ 20
+-72.5
+ 42
+0.9999999999999999
+  0
+LWPOLYLINE
+  5
+76
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+72.5
+ 20
+113.5000000000001
+ 10
+92.49999999999997
+ 20
+113.5000000000001
+ 42
+0.9999999999999999
+ 10
+92.5
+ 20
+117.5000000000001
+ 10
+72.5
+ 20
+117.5000000000001
+ 42
+0.9999999999999999
+  0
+LWPOLYLINE
+  5
+77
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    6
+ 70
+    1
+ 43
+0
+ 10
+73.32029762096181
+ 20
+-75.23769566317172
+ 42
+-0.7039556762011703
+ 10
+70.14498579222482
+ 20
+-84.10000000000005
+ 10
+17.7
+ 20
+-84.10000000000005
+ 42
+-0.4142135623730945
+ 10
+12.70000000000001
+ 20
+-79.10000000000005
+ 10
+12.7
+ 20
+-35.9834640615743
+ 42
+-0.6335463248043007
+ 10
+20.875311828737
+ 20
+-32.12115972474598
+  0
+CIRCLE
+  5
+78
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+116.5000000000001
+ 20
+-106.5
+ 40
+1.25
+  0
+CIRCLE
+  5
+79
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-116.5
+ 20
+-106.5000000000001
+ 40
+1.25
+  0
+CIRCLE
+  5
+7A
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+116.5
+ 20
+106.5000000000002
+ 40
+1.25
+  0
+LWPOLYLINE
+  5
+7B
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+72.5
+ 20
+-117.5
+ 10
+92.5
+ 20
+-117.5
+ 42
+0.9999999999999999
+ 10
+92.5
+ 20
+-113.5
+ 10
+72.5
+ 20
+-113.5
+ 42
+0.9999999999999999
+  0
+LWPOLYLINE
+  5
+7C
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    6
+ 70
+    1
+ 43
+0
+ 10
+12.69999999999999
+ 20
+79.10000000000005
+ 42
+-0.4142135623730963
+ 10
+17.70000000000001
+ 20
+84.10000000000005
+ 10
+70.14498579222483
+ 20
+84.10000000000005
+ 42
+-0.7039556762011683
+ 10
+73.32029762096182
+ 20
+75.23769566317172
+ 10
+20.875311828737
+ 20
+32.12115972474599
+ 42
+-0.6335463248043007
+ 10
+12.7
+ 20
+35.98346406157429
+  0
+LWPOLYLINE
+  5
+7D
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+-117.5
+ 20
+92.5
+ 10
+-117.5
+ 20
+72.5
+ 42
+0.9999999999999999
+ 10
+-113.5
+ 20
+72.5
+ 10
+-113.5
+ 20
+92.5
+ 42
+0.9999999999999999
+  0
+LWPOLYLINE
+  5
+7E
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+-117.5
+ 20
+-72.5
+ 10
+-117.5
+ 20
+-92.5
+ 42
+0.9999999999999999
+ 10
+-113.5
+ 20
+-92.5
+ 10
+-113.5
+ 20
+-72.5
+ 42
+0.9999999999999999
+  0
+CIRCLE
+  5
+7F
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-116.5
+ 20
+-116.5000000000001
+ 40
+1.25
+  0
+CIRCLE
+  5
+80
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+106.5
+ 20
+116.5000000000001
+ 40
+1.25
+  0
+CIRCLE
+  5
+81
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+116.5000000000002
+ 20
+-116.5
+ 40
+1.25
+  0
+CIRCLE
+  5
+82
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-116.5000000000001
+ 20
+106.5
+ 40
+1.25
+  0
+LWPOLYLINE
+  5
+83
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+113.5
+ 20
+72.49999999999999
+ 42
+0.9999999999999999
+ 10
+117.5
+ 20
+72.49999999999999
+ 10
+117.5
+ 20
+92.5
+ 42
+0.9999999999999999
+ 10
+113.5
+ 20
+92.5
+  0
+CIRCLE
+  5
+84
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-106.5000000000001
+ 20
+116.5
+ 40
+1.25
+  0
+CIRCLE
+  5
+85
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+106.5000000000002
+ 20
+-116.5
+ 40
+1.25
+  0
+LWPOLYLINE
+  5
+86
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+-92.5
+ 20
+113.5
+ 10
+-72.49999999999999
+ 20
+113.5
+ 42
+0.9999999999999999
+ 10
+-72.49999999999999
+ 20
+117.5
+ 10
+-92.5
+ 20
+117.5
+ 42
+0.9999999999999999
+  0
+CIRCLE
+  5
+87
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+116.5
+ 20
+116.5000000000002
+ 40
+1.25
+  0
+CIRCLE
+  5
+88
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+97.00000000000001
+ 20
+9
+ 40
+2.25
+  0
+CIRCLE
+  5
+89
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+73
+ 20
+-9
+ 40
+2.25
+  0
+CIRCLE
+  5
+8A
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-104.5
+ 20
+-104.5
+ 40
+1.2295
+  0
+CIRCLE
+  5
+8B
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-116.5000000000001
+ 20
+116.5
+ 40
+1.25
+  0
+CIRCLE
+  5
+8C
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+97.00000000000001
+ 20
+-46.49999999999999
+ 40
+2.25
+  0
+LWPOLYLINE
+  5
+8D
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+-72.5
+ 20
+-117.5
+ 42
+0.9999999999999999
+ 10
+-72.5
+ 20
+-113.5
+ 10
+-92.5
+ 20
+-113.5
+ 42
+0.9999999999999999
+ 10
+-92.5
+ 20
+-117.5
+  0
+CIRCLE
+  5
+8E
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-73
+ 20
+-46.49999999999999
+ 40
+2.25
+  0
+CIRCLE
+  5
+8F
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+73
+ 20
+28.5
+ 40
+2.25
+  0
+CIRCLE
+  5
+90
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+97.00000000000001
+ 20
+28.5
+ 40
+2.25
+  0
+CIRCLE
+  5
+91
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+97.00000000000001
+ 20
+-28.5
+ 40
+2.25
+  0
+CIRCLE
+  5
+92
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-73
+ 20
+28.5
+ 40
+2.25
+  0
+CIRCLE
+  5
+93
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+73
+ 20
+-46.49999999999999
+ 40
+2.25
+  0
+CIRCLE
+  5
+94
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-106.5
+ 20
+-116.5000000000001
+ 40
+1.25
+  0
+CIRCLE
+  5
+95
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+0
+ 20
+104.5000000000001
+ 40
+1.2295
+  0
+CIRCLE
+  5
+96
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+6.000000000000001
+ 20
+-14
+ 40
+1.625
+  0
+CIRCLE
+  5
+97
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-73
+ 20
+46.49999999999999
+ 40
+2.25
+  0
+CIRCLE
+  5
+98
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-73
+ 20
+-28.5
+ 40
+2.25
+  0
+CIRCLE
+  5
+99
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+97.00000000000001
+ 20
+46.49999999999999
+ 40
+2.25
+  0
+LWPOLYLINE
+  5
+9A
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+   44
+ 70
+    1
+ 43
+0
+ 10
+-118.5
+ 20
+121.5
+ 42
+0.4142135623730923
+ 10
+-121.5
+ 20
+118.5
+ 10
+-121.5
+ 20
+40.7426406871193
+ 42
+0.1989123673796605
+ 10
+-120.6213203435597
+ 20
+38.62132034355964
+ 10
+-110.3786796564404
+ 20
+28.37867965644035
+ 42
+-0.1989123673796579
+ 10
+-109.5
+ 20
+26.25735931288069
+ 10
+-109.5
+ 20
+-26.25735931288062
+ 42
+-0.1989123673796596
+ 10
+-110.3786796564404
+ 20
+-28.37867965644027
+ 10
+-120.6213203435598
+ 20
+-38.62132034355967
+ 42
+0.198912367379662
+ 10
+-121.5000000000001
+ 20
+-40.74264068711932
+ 10
+-121.5000000000002
+ 20
+-118.5
+ 42
+0.4142135623730938
+ 10
+-118.5000000000002
+ 20
+-121.5
+ 10
+-40.74264068711942
+ 20
+-121.5
+ 42
+0.1989123673796476
+ 10
+-38.62132034355982
+ 20
+-120.6213203435597
+ 10
+-28.37867965644021
+ 20
+-110.3786796564404
+ 42
+-0.1989123673796467
+ 10
+-26.25735931288059
+ 20
+-109.5
+ 10
+26.25735931288062
+ 20
+-109.5
+ 42
+-0.1989123673796489
+ 10
+28.37867965644021
+ 20
+-110.3786796564404
+ 10
+38.62132034355979
+ 20
+-120.6213203435597
+ 42
+0.1989123673796601
+ 10
+40.74264068711942
+ 20
+-121.5
+ 10
+118.5000000000002
+ 20
+-121.5
+ 42
+0.4142135623730924
+ 10
+121.5000000000002
+ 20
+-118.5
+ 10
+121.5000000000002
+ 20
+-40.7426406871193
+ 42
+0.1989123673796591
+ 10
+120.6213203435598
+ 20
+-38.62132034355965
+ 10
+110.3786796564404
+ 20
+-28.37867965644026
+ 42
+-0.198912367379658
+ 10
+109.5
+ 20
+-26.25735931288059
+ 10
+109.5
+ 20
+26.25735931288073
+ 42
+-0.1989123673796597
+ 10
+110.3786796564404
+ 20
+28.37867965644038
+ 10
+120.6213203435596
+ 20
+38.62132034355961
+ 42
+0.1989123673796594
+ 10
+121.5
+ 20
+40.74264068711926
+ 10
+121.5
+ 20
+118.5
+ 42
+0.4142135623730923
+ 10
+118.5
+ 20
+121.5
+ 10
+40.74264068711926
+ 20
+121.5
+ 42
+0.1989123673796593
+ 10
+38.6213203435596
+ 20
+120.6213203435597
+ 10
+28.37867965644035
+ 20
+110.3786796564404
+ 42
+-0.198912367379658
+ 10
+26.25735931288069
+ 20
+109.5
+ 10
+-0.4999999999999894
+ 20
+109.5
+ 42
+0.414213562373095
+ 10
+-3.499999999999997
+ 20
+106.5
+ 10
+-3.500000000000014
+ 20
+26.12500000000004
+ 42
+-2.414213562373089
+ 10
+-5.125000000000011
+ 20
+24.50000000000004
+ 10
+-59.87500000000003
+ 20
+24.50000000000002
+ 42
+-2.414213562373107
+ 10
+-61.50000000000001
+ 20
+26.12500000000002
+ 10
+-61.50000000000001
+ 20
+118.5
+ 42
+0.4142135623730936
+ 10
+-64.5
+ 20
+121.5
+  0
+CIRCLE
+  5
+9B
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-97.00000000000001
+ 20
+28.5
+ 40
+2.25
+  0
+CIRCLE
+  5
+9C
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-104.5
+ 20
+0
+ 40
+1.2295
+  0
+CIRCLE
+  5
+9D
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-97.00000000000001
+ 20
+-46.49999999999999
+ 40
+2.25
+  0
+CIRCLE
+  5
+9E
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-6.000000000000001
+ 20
+-14
+ 40
+1.625
+  0
+CIRCLE
+  5
+9F
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+73
+ 20
+9
+ 40
+2.25
+  0
+CIRCLE
+  5
+A0
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+0
+ 20
+-104.5
+ 40
+1.2295
+  0
+CIRCLE
+  5
+A1
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+104.5
+ 20
+-104.5
+ 40
+1.2295
+  0
+CIRCLE
+  5
+A2
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-97.00000000000001
+ 20
+46.49999999999999
+ 40
+2.25
+  0
+CIRCLE
+  5
+A3
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-97.00000000000001
+ 20
+-28.5
+ 40
+2.25
+  0
+CIRCLE
+  5
+A4
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+6.000000000000001
+ 20
+14
+ 40
+1.625
+  0
+CIRCLE
+  5
+A5
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+104.5
+ 20
+0
+ 40
+1.2295
+  0
+CIRCLE
+  5
+A6
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+104.5
+ 20
+104.5
+ 40
+1.2295
+  0
+CIRCLE
+  5
+A7
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+73
+ 20
+46.49999999999999
+ 40
+2.25
+  0
+CIRCLE
+  5
+A8
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-97.5
+ 20
+7.5
+ 40
+1.625
+  0
+CIRCLE
+  5
+A9
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+73
+ 20
+-28.5
+ 40
+2.25
+  0
+CIRCLE
+  5
+AA
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+97.00000000000001
+ 20
+-9
+ 40
+2.25
+  0
+CIRCLE
+  5
+AB
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-97.5
+ 20
+-7.5
+ 40
+1.625
+  0
+CIRCLE
+  5
+AC
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-6.000000000000001
+ 20
+14
+ 40
+1.625
+  0
+CIRCLE
+  5
+AD
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-104.5
+ 20
+104.5
+ 40
+1.2295
+  0
+CIRCLE
+  5
+AE
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-73.5
+ 20
+0
+ 40
+1.625
+  0
+LWPOLYLINE
+  5
+AF
+100
+AcDbEntity
+  8
+Anet A6 A8  Specific Upgrade
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    6
+ 70
+    1
+ 43
+0
+ 10
+-12.7
+ 20
+-35.98346406157429
+ 10
+-12.70000000000001
+ 20
+-79.10000000000005
+ 42
+-0.4142135623730935
+ 10
+-17.70000000000002
+ 20
+-84.10000000000005
+ 10
+-70.14498579222483
+ 20
+-84.10000000000005
+ 42
+-0.7039556762011681
+ 10
+-73.32029762096182
+ 20
+-75.23769566317172
+ 10
+-20.875311828737
+ 20
+-32.12115972474598
+ 42
+-0.6335463248043002
+  0
+CIRCLE
+  5
+B0
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-96.00000000000001
+ 20
+46.49999999999999
+ 40
+2.25
+  0
+CIRCLE
+  5
+B1
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-96.49999999999999
+ 20
+7.5
+ 40
+1.625
+  0
+CIRCLE
+  5
+B2
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+72
+ 20
+28.5
+ 40
+2.25
+  0
+CIRCLE
+  5
+B3
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+72
+ 20
+46.49999999999999
+ 40
+2.25
+  0
+CIRCLE
+  5
+B4
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+96.00000000000001
+ 20
+9
+ 40
+2.25
+  0
+CIRCLE
+  5
+B5
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+96.00000000000001
+ 20
+-46.49999999999999
+ 40
+2.25
+  0
+CIRCLE
+  5
+B6
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-96.00000000000001
+ 20
+28.5
+ 40
+2.25
+  0
+CIRCLE
+  5
+B7
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-96.49999999999999
+ 20
+-7.5
+ 40
+1.625
+  0
+CIRCLE
+  5
+B8
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-96.00000000000001
+ 20
+-46.49999999999999
+ 40
+2.25
+  0
+CIRCLE
+  5
+B9
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+4.750000000000003
+ 20
+9.5
+ 40
+1.6
+  0
+CIRCLE
+  5
+BA
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-72
+ 20
+46.49999999999999
+ 40
+2.25
+  0
+CIRCLE
+  5
+BB
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-4.749999999999999
+ 20
+9.5
+ 40
+2.1
+  0
+CIRCLE
+  5
+BC
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+72
+ 20
+-28.5
+ 40
+2.25
+  0
+CIRCLE
+  5
+BD
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-72
+ 20
+28.5
+ 40
+2.25
+  0
+CIRCLE
+  5
+BE
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+72
+ 20
+-9
+ 40
+2.25
+  0
+CIRCLE
+  5
+BF
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-96.00000000000001
+ 20
+-28.5
+ 40
+2.25
+  0
+CIRCLE
+  5
+C0
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+4.75
+ 20
+-9.5
+ 40
+2.1
+  0
+CIRCLE
+  5
+C1
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-4.749999999999999
+ 20
+-9.5
+ 40
+2.1
+  0
+CIRCLE
+  5
+C2
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-72
+ 20
+-46.49999999999999
+ 40
+2.25
+  0
+CIRCLE
+  5
+C3
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-72.5
+ 20
+0
+ 40
+1.625
+  0
+CIRCLE
+  5
+C4
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-4.749999999999999
+ 20
+9.5
+ 40
+2
+  0
+CIRCLE
+  5
+C5
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+4.75
+ 20
+-9.5
+ 40
+2
+  0
+CIRCLE
+  5
+C6
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+72
+ 20
+9
+ 40
+2
+  0
+CIRCLE
+  5
+C7
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+4.75
+ 20
+-9.5
+ 40
+1.6
+  0
+CIRCLE
+  5
+C8
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-4.749999999999999
+ 20
+9.5
+ 40
+1.6
+  0
+LWPOLYLINE
+  5
+C9
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+   44
+ 70
+    1
+ 43
+0
+ 10
+-110
+ 20
+107
+ 42
+-0.414213562373095
+ 10
+-107
+ 20
+110
+ 10
+-64
+ 20
+110
+ 42
+-0.4142135623730944
+ 10
+-61
+ 20
+107
+ 10
+-61.00000000000001
+ 20
+27.5
+ 42
+0.414213562373095
+ 10
+-58.00000000000001
+ 20
+24.5
+ 10
+-7.000000000000001
+ 20
+24.5
+ 42
+0.414213562373095
+ 10
+-4
+ 20
+27.5
+ 10
+-4.000000000000005
+ 20
+102
+ 42
+-0.4142135623730955
+ 10
+-0.9999999999999962
+ 20
+105
+ 10
+58.75735931288071
+ 20
+105
+ 42
+0.1989123673796578
+ 10
+60.87867965644035
+ 20
+105.8786796564404
+ 10
+64.12132034355962
+ 20
+109.1213203435596
+ 42
+-0.1989123673796624
+ 10
+66.24264068711929
+ 20
+110
+ 10
+107
+ 20
+110
+ 42
+-0.414213562373095
+ 10
+110
+ 20
+107
+ 10
+110
+ 20
+66.24264068711929
+ 42
+-0.1989123673796582
+ 10
+109.1213203435597
+ 20
+64.12132034355965
+ 10
+105.8786796564404
+ 20
+60.87867965644036
+ 42
+0.1989123673796585
+ 10
+105
+ 20
+58.75735931288071
+ 10
+105
+ 20
+-58.75735931288073
+ 42
+0.1989123673796574
+ 10
+105.8786796564404
+ 20
+-60.87867965644037
+ 10
+109.1213203435597
+ 20
+-64.12132034355965
+ 42
+-0.1989123673796589
+ 10
+110
+ 20
+-66.24264068711929
+ 10
+110
+ 20
+-107
+ 42
+-0.414213562373095
+ 10
+107
+ 20
+-110
+ 10
+66.24264068711931
+ 20
+-110
+ 42
+-0.1989123673796618
+ 10
+64.12132034355965
+ 20
+-109.1213203435596
+ 10
+60.87867965644036
+ 20
+-105.8786796564404
+ 42
+0.1989123673796616
+ 10
+58.75735931288071
+ 20
+-105
+ 10
+-58.75735931288071
+ 20
+-105
+ 42
+0.1989123673796576
+ 10
+-60.87867965644035
+ 20
+-105.8786796564404
+ 10
+-64.12132034355962
+ 20
+-109.1213203435596
+ 42
+-0.1989123673796589
+ 10
+-66.24264068711928
+ 20
+-110
+ 10
+-107
+ 20
+-110
+ 42
+-0.414213562373095
+ 10
+-110
+ 20
+-107
+ 10
+-110
+ 20
+-66.24264068711929
+ 42
+-0.1989123673796609
+ 10
+-109.1213203435596
+ 20
+-64.12132034355965
+ 10
+-105.8786796564404
+ 20
+-60.87867965644036
+ 42
+0.1989123673796605
+ 10
+-105
+ 20
+-58.75735931288071
+ 10
+-105
+ 20
+58.75735931288071
+ 42
+0.1989123673796605
+ 10
+-105.8786796564404
+ 20
+60.87867965644036
+ 10
+-109.1213203435596
+ 20
+64.12132034355965
+ 42
+-0.1989123673796588
+ 10
+-110
+ 20
+66.24264068711929
+  0
+CIRCLE
+  5
+CA
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+96.00000000000001
+ 20
+-9
+ 40
+2
+  0
+LWPOLYLINE
+  5
+CB
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    6
+ 70
+    1
+ 43
+0
+ 10
+12.7
+ 20
+79.10000000000005
+ 42
+-0.4142135623730961
+ 10
+17.70000000000001
+ 20
+84.10000000000005
+ 10
+70.14498579222482
+ 20
+84.10000000000008
+ 42
+-0.7039556762011683
+ 10
+73.32029762096182
+ 20
+75.23769566317172
+ 10
+20.875311828737
+ 20
+32.12115972474599
+ 42
+-0.6335463248043007
+ 10
+12.7
+ 20
+35.98346406157429
+  0
+CIRCLE
+  5
+CC
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+72
+ 20
+-9
+ 40
+2
+  0
+LWPOLYLINE
+  5
+CD
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    6
+ 70
+    1
+ 43
+0
+ 10
+-70.14498579222482
+ 20
+-84.10000000000004
+ 42
+-0.7039556762011687
+ 10
+-73.32029762096182
+ 20
+-75.23769566317171
+ 10
+-20.875311828737
+ 20
+-32.12115972474598
+ 42
+-0.6335463248043002
+ 10
+-12.7
+ 20
+-35.98346406157429
+ 10
+-12.70000000000001
+ 20
+-79.10000000000005
+ 42
+-0.4142135623730935
+ 10
+-17.70000000000002
+ 20
+-84.10000000000005
+  0
+CIRCLE
+  5
+CE
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-4.749999999999999
+ 20
+-9.5
+ 40
+2
+  0
+LWPOLYLINE
+  5
+CF
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    6
+ 70
+    1
+ 43
+0
+ 10
+73.32029762096181
+ 20
+-75.23769566317172
+ 42
+-0.7039556762011703
+ 10
+70.14498579222482
+ 20
+-84.10000000000005
+ 10
+17.7
+ 20
+-84.10000000000005
+ 42
+-0.4142135623730945
+ 10
+12.70000000000001
+ 20
+-79.10000000000005
+ 10
+12.7
+ 20
+-35.9834640615743
+ 42
+-0.6335463248042997
+ 10
+20.875311828737
+ 20
+-32.12115972474598
+  0
+CIRCLE
+  5
+D0
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-96.00000000000001
+ 20
+46.49999999999999
+ 40
+2
+  0
+CIRCLE
+  5
+D1
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+72
+ 20
+28.5
+ 40
+2
+  0
+CIRCLE
+  5
+D2
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+96.00000000000001
+ 20
+-9
+ 40
+2.25
+  0
+CIRCLE
+  5
+D3
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+72
+ 20
+46.49999999999999
+ 40
+2
+  0
+CIRCLE
+  5
+D4
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+4.750000000000003
+ 20
+9.5
+ 40
+2.1
+  0
+CIRCLE
+  5
+D5
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-4.749999999999999
+ 20
+-9.5
+ 40
+1.6
+  0
+CIRCLE
+  5
+D6
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-96.00000000000001
+ 20
+-28.5
+ 40
+2
+  0
+CIRCLE
+  5
+D7
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+96.00000000000001
+ 20
+-28.5
+ 40
+2.25
+  0
+CIRCLE
+  5
+D8
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+4.750000000000003
+ 20
+9.5
+ 40
+2
+  0
+CIRCLE
+  5
+D9
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+96.00000000000001
+ 20
+28.5
+ 40
+2.25
+  0
+CIRCLE
+  5
+DA
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+72
+ 20
+9
+ 40
+2.25
+  0
+CIRCLE
+  5
+DB
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+72
+ 20
+-46.49999999999999
+ 40
+2.25
+  0
+CIRCLE
+  5
+DC
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+72
+ 20
+-46.49999999999999
+ 40
+2
+  0
+CIRCLE
+  5
+DD
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+96.00000000000001
+ 20
+46.49999999999999
+ 40
+2.25
+  0
+CIRCLE
+  5
+DE
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-72
+ 20
+28.5
+ 40
+2
+  0
+CIRCLE
+  5
+DF
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-96.00000000000001
+ 20
+-46.49999999999999
+ 40
+2
+  0
+CIRCLE
+  5
+E0
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+96.00000000000001
+ 20
+9
+ 40
+2
+  0
+CIRCLE
+  5
+E1
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-72
+ 20
+-28.5
+ 40
+2.25
+  0
+CIRCLE
+  5
+E2
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-72
+ 20
+-28.5
+ 40
+2
+  0
+CIRCLE
+  5
+E3
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+72
+ 20
+-28.5
+ 40
+2
+  0
+CIRCLE
+  5
+E4
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-72
+ 20
+46.49999999999999
+ 40
+2
+  0
+CIRCLE
+  5
+E5
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-72
+ 20
+-46.49999999999999
+ 40
+2
+  0
+CIRCLE
+  5
+E6
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+96.00000000000001
+ 20
+-46.49999999999999
+ 40
+2
+  0
+CIRCLE
+  5
+E7
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+96.00000000000001
+ 20
+28.5
+ 40
+2
+  0
+CIRCLE
+  5
+E8
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-96.00000000000001
+ 20
+28.5
+ 40
+2
+  0
+LINE
+  5
+E9
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+89.80000000000001
+ 20
+-104.6
+ 11
+89.80000000000001
+ 21
+-104.6
+  0
+LINE
+  5
+EA
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-92
+ 20
+106.8
+ 11
+-104.6
+ 21
+106.8
+  0
+ARC
+  5
+EB
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+104.6
+ 20
+104.6
+ 40
+2.200000000000024
+100
+AcDbArc
+ 50
+0
+ 51
+90
+  0
+CIRCLE
+  5
+EC
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+96.00000000000001
+ 20
+46.49999999999999
+ 40
+2
+  0
+ARC
+  5
+ED
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+104.6
+ 20
+-92.00000000000001
+ 40
+2.200000000000006
+100
+AcDbArc
+ 50
+90
+ 51
+180
+  0
+ARC
+  5
+EE
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+104.6
+ 20
+92.00000000000001
+ 40
+2.199999999999989
+100
+AcDbArc
+ 50
+180
+ 51
+270
+  0
+LINE
+  5
+EF
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+106.8
+ 20
+104.6
+ 11
+106.8
+ 21
+92.00000000000001
+  0
+ARC
+  5
+F0
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+104.6
+ 20
+-104.6
+ 40
+2.200000000000006
+100
+AcDbArc
+ 50
+270
+ 51
+0
+  0
+ARC
+  5
+F1
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-104.6
+ 20
+-92.00000000000001
+ 40
+2.200000000000024
+100
+AcDbArc
+ 50
+0
+ 51
+90
+  0
+LINE
+  5
+F2
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+92.00000000000003
+ 20
+106.8
+ 11
+104.6
+ 21
+106.8
+  0
+LINE
+  5
+F3
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-106.8
+ 20
+-92.00000000000001
+ 11
+-106.8
+ 21
+-104.6
+  0
+LINE
+  5
+F4
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+104.6
+ 20
+-89.80000000000001
+ 11
+104.6
+ 21
+-89.80000000000001
+  0
+ARC
+  5
+F5
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+92.00000000000003
+ 20
+-104.6
+ 40
+2.200000000000006
+100
+AcDbArc
+ 50
+90
+ 51
+180
+  0
+ARC
+  5
+F6
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+104.6
+ 20
+-92.00000000000001
+ 40
+2.200000000000024
+100
+AcDbArc
+ 50
+0
+ 51
+90
+  0
+ARC
+  5
+F7
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-92
+ 20
+104.6
+ 40
+2.200000000000006
+100
+AcDbArc
+ 50
+270
+ 51
+0
+  0
+LINE
+  5
+F8
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-102.4
+ 20
+102.4
+ 11
+-92
+ 21
+102.4
+  0
+ARC
+  5
+F9
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+92.00000000000003
+ 20
+104.6
+ 40
+2.199999999999989
+100
+AcDbArc
+ 50
+90
+ 51
+180
+  0
+ARC
+  5
+FA
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-92
+ 20
+-104.6
+ 40
+2.199999999999989
+100
+AcDbArc
+ 50
+0
+ 51
+90
+  0
+LINE
+  5
+FB
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+104.6
+ 20
+-106.8
+ 11
+92.00000000000003
+ 21
+-106.8
+  0
+ARC
+  5
+FC
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+104.6
+ 20
+92.00000000000001
+ 40
+2.200000000000006
+100
+AcDbArc
+ 50
+270
+ 51
+0
+  0
+CIRCLE
+  5
+FD
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+96.00000000000001
+ 20
+-28.5
+ 40
+2
+  0
+LINE
+  5
+FE
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-89.80000000000001
+ 20
+104.6
+ 11
+-89.80000000000001
+ 21
+104.6
+  0
+ARC
+  5
+FF
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-92
+ 20
+-104.6
+ 40
+2.200000000000006
+100
+AcDbArc
+ 50
+270
+ 51
+0
+  0
+ARC
+  5
+100
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-104.6
+ 20
+-104.6
+ 40
+2.199999999999989
+100
+AcDbArc
+ 50
+180
+ 51
+270
+  0
+LINE
+  5
+101
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-104.6
+ 20
+-106.8
+ 11
+-92
+ 21
+-106.8
+  0
+LINE
+  5
+102
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+102.4
+ 20
+102.4
+ 11
+92.00000000000003
+ 21
+102.4
+  0
+LINE
+  5
+103
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-106.8
+ 20
+104.6
+ 11
+-106.8
+ 21
+92.00000000000001
+  0
+LINE
+  5
+104
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-104.6
+ 20
+89.80000000000001
+ 11
+-104.6
+ 21
+89.80000000000001
+  0
+LINE
+  5
+105
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-102.4
+ 20
+-102.4
+ 11
+-102.4
+ 21
+-92.00000000000001
+  0
+LINE
+  5
+106
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+102.4
+ 20
+-102.4
+ 11
+102.4
+ 21
+-92.00000000000001
+  0
+LINE
+  5
+107
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-89.80000000000001
+ 20
+-104.6
+ 11
+-89.80000000000001
+ 21
+-104.6
+  0
+LINE
+  5
+108
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+89.80000000000001
+ 20
+104.6
+ 11
+89.80000000000001
+ 21
+104.6
+  0
+ARC
+  5
+109
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+92.00000000000003
+ 20
+104.6
+ 40
+2.200000000000024
+100
+AcDbArc
+ 50
+180
+ 51
+270
+  0
+LINE
+  5
+10A
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-104.6
+ 20
+-89.80000000000001
+ 11
+-104.6
+ 21
+-89.80000000000001
+  0
+LINE
+  5
+10B
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+102.4
+ 20
+92.00000000000001
+ 11
+102.4
+ 21
+102.4
+  0
+ARC
+  5
+10C
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-104.6
+ 20
+-92.00000000000001
+ 40
+2.200000000000006
+100
+AcDbArc
+ 50
+90
+ 51
+180
+  0
+ARC
+  5
+10D
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-92
+ 20
+104.6
+ 40
+2.199999999999989
+100
+AcDbArc
+ 50
+0
+ 51
+90
+  0
+ARC
+  5
+10E
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-104.6
+ 20
+104.6
+ 40
+2.199999999999989
+100
+AcDbArc
+ 50
+90
+ 51
+180
+  0
+ARC
+  5
+10F
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+92.00000000000003
+ 20
+-104.6
+ 40
+2.200000000000024
+100
+AcDbArc
+ 50
+180
+ 51
+270
+  0
+LINE
+  5
+110
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+106.8
+ 20
+-92.00000000000001
+ 11
+106.8
+ 21
+-104.6
+  0
+LINE
+  5
+111
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+92.00000000000003
+ 20
+-102.4
+ 11
+102.4
+ 21
+-102.4
+  0
+LINE
+  5
+112
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-92
+ 20
+-102.4
+ 11
+-102.4
+ 21
+-102.4
+  0
+LINE
+  5
+113
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+104.6
+ 20
+89.80000000000001
+ 11
+104.6
+ 21
+89.80000000000001
+  0
+LINE
+  5
+114
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-102.4
+ 20
+92.00000000000001
+ 11
+-102.4
+ 21
+102.4
+  0
+ARC
+  5
+115
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-104.6
+ 20
+92.00000000000001
+ 40
+2.199999999999989
+100
+AcDbArc
+ 50
+180
+ 51
+270
+  0
+ARC
+  5
+116
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-104.6
+ 20
+92.00000000000001
+ 40
+2.200000000000006
+100
+AcDbArc
+ 50
+270
+ 51
+0
+  0
+CIRCLE
+  5
+117
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+1.665334536937735e-015
+ 20
+0
+ 40
+1
+  0
+CIRCLE
+  5
+118
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-96.00000000000001
+ 20
+46.49999999999999
+ 40
+2
+  0
+CIRCLE
+  5
+119
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-73
+ 20
+28.5
+ 40
+2
+  0
+CIRCLE
+  5
+11A
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-73
+ 20
+46.49999999999999
+ 40
+2
+  0
+CIRCLE
+  5
+11B
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-97.00000000000001
+ 20
+46.49999999999999
+ 40
+2
+  0
+CIRCLE
+  5
+11C
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-97.00000000000001
+ 20
+28.5
+ 40
+2
+  0
+CIRCLE
+  5
+11D
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+73
+ 20
+46.49999999999999
+ 40
+2
+  0
+CIRCLE
+  5
+11E
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+73
+ 20
+28.5
+ 40
+2
+  0
+CIRCLE
+  5
+11F
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+97.00000000000001
+ 20
+46.49999999999999
+ 40
+2
+  0
+CIRCLE
+  5
+120
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+97.00000000000001
+ 20
+28.5
+ 40
+2
+  0
+CIRCLE
+  5
+121
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+72
+ 20
+46.49999999999999
+ 40
+2.999999999999998
+  0
+CIRCLE
+  5
+122
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Alu Plastikjunkies
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-96.00000000000001
+ 20
+46.49999999999999
+ 40
+2.999999999999989
+  0
+CIRCLE
+  5
+123
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-73
+ 20
+-46.49999999999999
+ 40
+2.25
+  0
+CIRCLE
+  5
+124
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-97.00000000000001
+ 20
+-28.49999999999998
+ 40
+2.25
+  0
+LWPOLYLINE
+  5
+125
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+   20
+ 70
+    1
+ 43
+0
+ 10
+-64.5
+ 20
+109.5
+ 10
+-66.49999999999999
+ 20
+109.5
+ 10
+-104.5
+ 20
+109.5
+ 42
+0.4142135623730916
+ 10
+-109.5
+ 20
+104.5
+ 10
+-109.5
+ 20
+-104.5
+ 42
+0.4142135623730908
+ 10
+-104.5
+ 20
+-109.5
+ 10
+104.5
+ 20
+-109.5
+ 42
+0.4142135623730927
+ 10
+109.5
+ 20
+-104.5
+ 10
+109.5
+ 20
+104.5
+ 42
+0.414213562373095
+ 10
+104.5
+ 20
+109.5
+ 10
+1.500000000000017
+ 20
+109.5
+ 10
+-0.4999999999999759
+ 20
+109.5
+ 42
+0.4142135623730947
+ 10
+-3.499999999999984
+ 20
+106.5
+ 10
+-3.499999999999984
+ 20
+104.5
+ 10
+-3.499999999999993
+ 20
+25.25
+ 42
+-2.41421356237309
+ 10
+-4.249999999999989
+ 20
+24.50000000000001
+ 10
+-60.75000000000006
+ 20
+24.50000000000002
+ 42
+-2.414213562373126
+ 10
+-61.5
+ 20
+25.25000000000001
+ 10
+-61.49999999999999
+ 20
+104.5
+ 10
+-61.5
+ 20
+106.5
+ 42
+0.414213562373106
+  0
+CIRCLE
+  5
+126
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-104.5
+ 20
+8.881784197001252e-015
+ 40
+1.6
+  0
+CIRCLE
+  5
+127
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-97.00000000000001
+ 20
+46.50000000000001
+ 40
+2.25
+  0
+CIRCLE
+  5
+128
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+73
+ 20
+28.50000000000001
+ 40
+2.25
+  0
+CIRCLE
+  5
+129
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+97.00000000000001
+ 20
+-28.50000000000001
+ 40
+2.25
+  0
+CIRCLE
+  5
+12A
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+5.999999999999998
+ 20
+14
+ 40
+1.6
+  0
+CIRCLE
+  5
+12B
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+104.5
+ 20
+-8.881784197001252e-015
+ 40
+1.6
+  0
+CIRCLE
+  5
+12C
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+5.999999999999995
+ 20
+-14
+ 40
+1.6
+  0
+CIRCLE
+  5
+12D
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-97.00000000000001
+ 20
+28.50000000000003
+ 40
+2.25
+  0
+CIRCLE
+  5
+12E
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+73
+ 20
+-28.50000000000001
+ 40
+2.25
+  0
+CIRCLE
+  5
+12F
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-5.999999999999998
+ 20
+-14
+ 40
+1.6
+  0
+CIRCLE
+  5
+130
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+70.00000000000001
+ 20
+37.5
+ 40
+1.6
+  0
+CIRCLE
+  5
+131
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-1.332267629550188e-014
+ 20
+-104.5
+ 40
+1.6
+  0
+CIRCLE
+  5
+132
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+73
+ 20
+-46.50000000000002
+ 40
+2.25
+  0
+CIRCLE
+  5
+133
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+1.332267629550188e-014
+ 20
+104.5
+ 40
+1.6
+  0
+CIRCLE
+  5
+134
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-73.5
+ 20
+8.881784197001252e-015
+ 40
+1.6
+  0
+CIRCLE
+  5
+135
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-72.99999999999999
+ 20
+46.50000000000001
+ 40
+2.25
+  0
+LWPOLYLINE
+  5
+136
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    8
+ 70
+    1
+ 43
+0
+ 10
+80.5
+ 20
+48.75
+ 10
+80.5
+ 20
+26.24999999999999
+ 42
+2.414213562373102
+ 10
+81.25
+ 20
+25.5
+ 10
+88.74999999999999
+ 20
+25.49999999999998
+ 42
+2.41421356237299
+ 10
+89.50000000000001
+ 20
+26.24999999999999
+ 10
+89.50000000000001
+ 20
+48.74999999999999
+ 42
+2.414213562373079
+ 10
+88.74999999999999
+ 20
+49.5
+ 10
+81.25000000000001
+ 20
+49.50000000000001
+ 42
+2.414213562373095
+  0
+LWPOLYLINE
+  5
+137
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    8
+ 70
+    1
+ 43
+0
+ 10
+-89.50000000000001
+ 20
+48.75000000000001
+ 10
+-89.50000000000001
+ 20
+26.25000000000008
+ 42
+2.414213562373265
+ 10
+-88.75000000000001
+ 20
+25.50000000000001
+ 10
+-81.24999999999993
+ 20
+25.50000000000001
+ 42
+2.414213562373119
+ 10
+-80.49999999999999
+ 20
+26.25000000000001
+ 10
+-80.49999999999999
+ 20
+48.74999999999997
+ 42
+2.414213562373128
+ 10
+-81.24999999999999
+ 20
+49.50000000000002
+ 10
+-88.75000000000004
+ 20
+49.50000000000002
+ 42
+2.414213562373209
+  0
+CIRCLE
+  5
+138
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+97.00000000000001
+ 20
+46.49999999999999
+ 40
+2.25
+  0
+CIRCLE
+  5
+139
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-5.999999999999995
+ 20
+14
+ 40
+1.6
+  0
+CIRCLE
+  5
+13A
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-100
+ 20
+-37.49999999999999
+ 40
+1.6
+  0
+CIRCLE
+  5
+13B
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-104.5
+ 20
+-104.5
+ 40
+1.6
+  0
+LWPOLYLINE
+  5
+13C
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    6
+ 70
+    1
+ 43
+0
+ 10
+-64.42893218813451
+ 20
+-92.49999999999999
+ 42
+-0.6681786379193025
+ 10
+-67.9644660940673
+ 20
+-83.96446609406732
+ 10
+-14.53553390593272
+ 20
+-30.53553390593279
+ 42
+-0.6681786379192941
+ 10
+-6.000000000000002
+ 20
+-34.0710678118655
+ 10
+-6.000000000000024
+ 20
+-87.50000000000001
+ 42
+-0.414213562373094
+ 10
+-11.00000000000001
+ 20
+-92.50000000000001
+  0
+CIRCLE
+  5
+13D
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-97.50000000000001
+ 20
+-12.49999999999999
+ 40
+1.6
+  0
+LWPOLYLINE
+  5
+13E
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    6
+ 70
+    1
+ 43
+0
+ 10
+14.53553390593275
+ 20
+30.53553390593273
+ 42
+-0.6681786379193022
+ 10
+6
+ 20
+34.07106781186548
+ 10
+6.000000000000007
+ 20
+87.5
+ 42
+-0.4142135623730949
+ 10
+11.00000000000001
+ 20
+92.5
+ 10
+64.42893218813454
+ 20
+92.49999999999997
+ 42
+-0.6681786379192982
+ 10
+67.96446609406728
+ 20
+83.96446609406726
+  0
+LWPOLYLINE
+  5
+13F
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    6
+ 70
+    1
+ 43
+0
+ 10
+14.5355339059327
+ 20
+-30.53553390593278
+ 42
+0.6681786379192939
+ 10
+5.999999999999991
+ 20
+-34.0710678118655
+ 10
+6.000000000000006
+ 20
+-87.50000000000001
+ 42
+0.414213562373094
+ 10
+10.99999999999999
+ 20
+-92.50000000000001
+ 10
+64.42893218813452
+ 20
+-92.50000000000003
+ 42
+0.6681786379193043
+ 10
+67.96446609406726
+ 20
+-83.96446609406732
+  0
+LWPOLYLINE
+  5
+140
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    8
+ 70
+    1
+ 43
+0
+ 10
+80.5
+ 20
+-26.25000000000001
+ 10
+80.5
+ 20
+-48.75
+ 42
+2.414213562373111
+ 10
+81.25
+ 20
+-49.49999999999999
+ 10
+88.74999999999999
+ 20
+-49.50000000000003
+ 42
+2.414213562372949
+ 10
+89.50000000000001
+ 20
+-48.75
+ 10
+89.50000000000001
+ 20
+-26.25000000000003
+ 42
+2.414213562373022
+ 10
+88.74999999999999
+ 20
+-25.5
+ 10
+81.25
+ 20
+-25.5
+ 42
+2.41421356237307
+  0
+CIRCLE
+  5
+141
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-69.99999999999999
+ 20
+-37.5
+ 40
+1.6
+  0
+CIRCLE
+  5
+142
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+70
+ 20
+-37.5
+ 40
+1.6
+  0
+LWPOLYLINE
+  5
+143
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    8
+ 70
+    1
+ 43
+0
+ 10
+-81.24999999999999
+ 20
+-25.49999999999998
+ 10
+-88.75000000000004
+ 20
+-25.49999999999998
+ 42
+2.414213562373199
+ 10
+-89.50000000000001
+ 20
+-26.24999999999999
+ 10
+-89.50000000000001
+ 20
+-48.74999999999993
+ 42
+2.414213562373255
+ 10
+-88.75000000000001
+ 20
+-49.49999999999999
+ 10
+-81.2499999999999
+ 20
+-49.49999999999999
+ 42
+2.414213562373128
+ 10
+-80.49999999999999
+ 20
+-48.75000000000001
+ 10
+-80.49999999999999
+ 20
+-26.25000000000004
+ 42
+2.414213562373087
+  0
+CIRCLE
+  5
+144
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+104.5
+ 20
+-104.5
+ 40
+1.6
+  0
+CIRCLE
+  5
+145
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+100
+ 20
+-37.50000000000001
+ 40
+1.6
+  0
+CIRCLE
+  5
+146
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-97.50000000000001
+ 20
+12.50000000000001
+ 40
+1.6
+  0
+CIRCLE
+  5
+147
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-72.99999999999999
+ 20
+28.50000000000002
+ 40
+2.25
+  0
+CIRCLE
+  5
+148
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+97.00000000000001
+ 20
+-46.50000000000002
+ 40
+2.25
+  0
+CIRCLE
+  5
+149
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+12.00000000000001
+ 20
+-17.5
+ 40
+1.6
+  0
+CIRCLE
+  5
+14A
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+12.00000000000001
+ 20
+0
+ 40
+1.6
+  0
+CIRCLE
+  5
+14B
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-11.99999999999999
+ 20
+0
+ 40
+1.6
+  0
+CIRCLE
+  5
+14C
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-97.00000000000001
+ 20
+-46.49999999999999
+ 40
+2.25
+  0
+CIRCLE
+  5
+14D
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+73
+ 20
+46.49999999999999
+ 40
+2.25
+  0
+CIRCLE
+  5
+14E
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+100
+ 20
+37.49999999999999
+ 40
+1.6
+  0
+CIRCLE
+  5
+14F
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+97.00000000000001
+ 20
+28.5
+ 40
+2.25
+  0
+CIRCLE
+  5
+150
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-72.99999999999999
+ 20
+-28.49999999999999
+ 40
+2.25
+  0
+CIRCLE
+  5
+151
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-104.5
+ 20
+104.5
+ 40
+1.6
+  0
+CIRCLE
+  5
+152
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-69.99999999999997
+ 20
+37.50000000000001
+ 40
+1.6
+  0
+CIRCLE
+  5
+153
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+104.5
+ 20
+104.5
+ 40
+1.6
+  0
+CIRCLE
+  5
+154
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-11.99999999999999
+ 20
+-17.5
+ 40
+1.6
+  0
+CIRCLE
+  5
+155
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-100
+ 20
+37.50000000000002
+ 40
+1.6
+  0
+CIRCLE
+  5
+156
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+2.220446049250313e-015
+ 20
+17.5
+ 40
+1.6
+  0
+CIRCLE
+  5
+157
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade P3Steel
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0.9999999999999915
+  0
+ARC
+  5
+158
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-70
+ 20
+-80.92
+ 40
+9.999999999999993
+100
+AcDbArc
+ 50
+299.9999999999998
+ 51
+0
+  0
+ARC
+  5
+159
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+104.5
+ 20
+104.5
+ 40
+5
+100
+AcDbArc
+ 50
+0
+ 51
+90
+  0
+CIRCLE
+  5
+15A
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+6.000000000000001
+ 20
+14
+ 40
+1.7
+  0
+CIRCLE
+  5
+15B
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+1
+  0
+ARC
+  5
+15C
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+59.5
+ 20
+73.5
+ 40
+6.000000000000004
+100
+AcDbArc
+ 50
+314.9999880943964
+ 51
+90
+  0
+LINE
+  5
+15D
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+59.5
+ 20
+79.50000000000001
+ 11
+21
+ 21
+79.5
+  0
+CIRCLE
+  5
+15E
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-97.00000000000001
+ 20
+-9
+ 40
+2.25
+  0
+CIRCLE
+  5
+15F
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-104.5
+ 20
+-104.5
+ 40
+1.7
+  0
+LINE
+  5
+160
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+109.5
+ 20
+104.5
+ 11
+109.5
+ 21
+-104.5
+  0
+CIRCLE
+  5
+161
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+73
+ 20
+37.5
+ 40
+2.25
+  0
+CIRCLE
+  5
+162
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+0
+ 20
+104.5
+ 40
+1.7
+  0
+CIRCLE
+  5
+163
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+104.5
+ 20
+104.5
+ 40
+1.7
+  0
+CIRCLE
+  5
+164
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-73
+ 20
+46.5
+ 40
+2.25
+  0
+CIRCLE
+  5
+165
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-73
+ 20
+9
+ 40
+2.25
+  0
+ARC
+  5
+166
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+57.09999999999999
+ 20
+-28
+ 40
+2.999999999999998
+100
+AcDbArc
+ 50
+0
+ 51
+90
+  0
+CIRCLE
+  5
+167
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+73
+ 20
+28.5
+ 40
+2.25
+  0
+CIRCLE
+  5
+168
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+73
+ 20
+-28.5
+ 40
+2.25
+  0
+CIRCLE
+  5
+169
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-97.00000000000001
+ 20
+46.5
+ 40
+2.25
+  0
+LINE
+  5
+16A
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+65.09999999999999
+ 20
+-89.58025403784438
+ 11
+98.44175804247421
+ 21
+-108.8301270189222
+  0
+CIRCLE
+  5
+16B
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-97.00000000000001
+ 20
+37.5
+ 40
+2.25
+  0
+CIRCLE
+  5
+16C
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-6.000000000000001
+ 20
+14
+ 40
+1.7
+  0
+CIRCLE
+  5
+16D
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-97.00000000000001
+ 20
+-28.5
+ 40
+2.25
+  0
+CIRCLE
+  5
+16E
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+104.5
+ 20
+-104.5
+ 40
+1.7
+  0
+CIRCLE
+  5
+16F
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-73
+ 20
+0
+ 40
+2.25
+  0
+CIRCLE
+  5
+170
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-73
+ 20
+-46.5
+ 40
+2.25
+  0
+CIRCLE
+  5
+171
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-97.00000000000001
+ 20
+9
+ 40
+2.25
+  0
+CIRCLE
+  5
+172
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-73
+ 20
+-37.5
+ 40
+2.25
+  0
+CIRCLE
+  5
+173
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-73
+ 20
+37.5
+ 40
+2.25
+  0
+CIRCLE
+  5
+174
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+73
+ 20
+-46.49999999999999
+ 40
+2.25
+  0
+CIRCLE
+  5
+175
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+97.00000000000001
+ 20
+-28.5
+ 40
+2.25
+  0
+CIRCLE
+  5
+176
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-97.00000000000001
+ 20
+-37.5
+ 40
+2.25
+  0
+ARC
+  5
+177
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+21
+ 20
+35
+ 40
+6.000000000000028
+100
+AcDbArc
+ 50
+180.0000096593461
+ 51
+314.9999880943964
+  0
+LINE
+  5
+178
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-65.00000000000003
+ 20
+-89.5802540378444
+ 11
+-98.34175804247411
+ 21
+-108.8301270189222
+  0
+CIRCLE
+  5
+179
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-6.000000000000001
+ 20
+-14
+ 40
+1.7
+  0
+ARC
+  5
+17A
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-104.5
+ 20
+104.5
+ 40
+5
+100
+AcDbArc
+ 50
+90
+ 51
+180
+  0
+CIRCLE
+  5
+17B
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-97.00000000000001
+ 20
+-46.49999999999999
+ 40
+2.25
+  0
+CIRCLE
+  5
+17C
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-97.00000000000001
+ 20
+0
+ 40
+2.25
+  0
+LINE
+  5
+17D
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-104.5
+ 20
+109.5
+ 11
+104.5
+ 21
+109.5
+  0
+CIRCLE
+  5
+17E
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-73
+ 20
+-28.5
+ 40
+2.25
+  0
+CIRCLE
+  5
+17F
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-73
+ 20
+-9
+ 40
+2.25
+  0
+CIRCLE
+  5
+180
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+104.5
+ 20
+0
+ 40
+1.7
+  0
+CIRCLE
+  5
+181
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-97.00000000000001
+ 20
+28.5
+ 40
+2.25
+  0
+CIRCLE
+  5
+182
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+73
+ 20
+-37.5
+ 40
+2.25
+  0
+LINE
+  5
+183
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-63.74264068711929
+ 20
+69.25735931288071
+ 11
+-25.24264068711929
+ 21
+30.75735931288072
+  0
+CIRCLE
+  5
+184
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+97.00000000000001
+ 20
+-46.5
+ 40
+2.25
+  0
+ARC
+  5
+185
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-59.5
+ 20
+73.5
+ 40
+6.000000000000005
+100
+AcDbArc
+ 50
+90
+ 51
+225
+  0
+CIRCLE
+  5
+186
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+6.000000000000001
+ 20
+-14
+ 40
+1.7
+  0
+CIRCLE
+  5
+187
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+73
+ 20
+46.5
+ 40
+2.25
+  0
+CIRCLE
+  5
+188
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-73
+ 20
+28.5
+ 40
+2.25
+  0
+ARC
+  5
+189
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-57
+ 20
+-28
+ 40
+3.000000000000003
+100
+AcDbArc
+ 50
+90
+ 51
+180
+  0
+LINE
+  5
+18A
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+25.24263980553249
+ 20
+30.75735843129407
+ 11
+63.74263980553248
+ 21
+69.25735843129408
+  0
+CIRCLE
+  5
+18B
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-104.5
+ 20
+104.5
+ 40
+1.7
+  0
+ARC
+  5
+18C
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-21
+ 20
+73.5
+ 40
+6.000000000000001
+100
+AcDbArc
+ 50
+0
+ 51
+90
+  0
+ARC
+  5
+18D
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-104.5
+ 20
+-104.5
+ 40
+5
+100
+AcDbArc
+ 50
+180
+ 51
+270
+  0
+LINE
+  5
+18E
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-14.99999999999999
+ 20
+35
+ 11
+-15
+ 21
+73.5
+  0
+LINE
+  5
+18F
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-100.8417580424741
+ 20
+-109.5
+ 11
+-104.5
+ 21
+-109.5
+  0
+LINE
+  5
+190
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+60.09999999999999
+ 20
+-28
+ 11
+60.09999999999999
+ 21
+-80.9199961306377
+  0
+ARC
+  5
+191
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+70.09999999999999
+ 20
+-80.92
+ 40
+10.00000000000039
+100
+AcDbArc
+ 50
+180
+ 51
+240.0000139544881
+  0
+LINE
+  5
+192
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+104.5
+ 20
+-109.5
+ 11
+100.9417580424742
+ 21
+-109.5
+  0
+CIRCLE
+  5
+193
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+97.00000000000001
+ 20
+-37.5
+ 40
+2.25
+  0
+CIRCLE
+  5
+194
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+97.00000000000001
+ 20
+37.5
+ 40
+2.25
+  0
+ARC
+  5
+195
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-21
+ 20
+35
+ 40
+5.999999999999731
+100
+AcDbArc
+ 50
+224.9999999999999
+ 51
+2.142954844580254e-005
+  0
+LINE
+  5
+196
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-60.00000000000001
+ 20
+-80.92
+ 11
+-60
+ 21
+-28
+  0
+LINE
+  5
+197
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+15
+ 20
+73.5
+ 11
+15
+ 21
+35
+  0
+ARC
+  5
+198
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+104.5
+ 20
+-104.5
+ 40
+5
+100
+AcDbArc
+ 50
+270
+ 51
+0
+  0
+LINE
+  5
+199
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-21
+ 20
+79.50000000000001
+ 11
+-59.5
+ 21
+79.50000000000001
+  0
+ARC
+  5
+19A
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-100.8417580424741
+ 20
+-104.5
+ 40
+5
+100
+AcDbArc
+ 50
+270
+ 51
+299.9999999999999
+  0
+LINE
+  5
+19B
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-109.5
+ 20
+-104.5
+ 11
+-109.5
+ 21
+104.5
+  0
+CIRCLE
+  5
+19C
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+97.00000000000001
+ 20
+46.5
+ 40
+2.25
+  0
+ARC
+  5
+19D
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+21
+ 20
+73.5
+ 40
+6.000000000000005
+100
+AcDbArc
+ 50
+90
+ 51
+180
+  0
+CIRCLE
+  5
+19E
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+97.00000000000001
+ 20
+28.5
+ 40
+2.25
+  0
+LINE
+  5
+19F
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-57
+ 20
+-25
+ 11
+57.09999999999999
+ 21
+-25
+  0
+ARC
+  5
+1A0
+100
+AcDbEntity
+  8
+Anet A6 A8 Upgrade Aluminium
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+100.9417580424742
+ 20
+-104.5
+ 40
+4.999999999999995
+100
+AcDbArc
+ 50
+239.9999999999999
+ 51
+270
+  0
+ARC
+  5
+1A1
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-55.39999902248383
+ 20
+26.09999999999999
+ 40
+6.600000000000019
+100
+AcDbArc
+ 50
+180
+ 51
+269.9999999999999
+  0
+LINE
+  5
+1A2
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-61.99999961680192
+ 20
+78.39999973781099
+ 11
+-61.99999902248385
+ 21
+26.09999992499997
+  0
+LINE
+  5
+1A3
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+107.9999361967735
+ 20
+-45.96513366387364
+ 11
+107.9999501967723
+ 21
+-28.9356956638736
+  0
+LINE
+  5
+1A4
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-101.0000038311441
+ 20
+108.0000031688562
+ 11
+-79.75736299999993
+ 21
+86.75736200000004
+  0
+CIRCLE
+  5
+1A5
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+96.99999791383745
+ 20
+-46.2736748246277
+ 40
+2.1
+  0
+LINE
+  5
+1A6
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-90.00000399999998
+ 20
+68.48528604382861
+ 11
+-90.00000399999998
+ 21
+80.51472099999998
+  0
+CIRCLE
+  5
+1A7
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-104.5
+ 20
+104.5
+ 40
+1.6
+  0
+CIRCLE
+  5
+1A8
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-97.00000000000001
+ 20
+28.00000095367429
+ 40
+2.1
+  0
+LINE
+  5
+1A9
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+91.75727931288066
+ 20
+-84.75728068711929
+ 11
+108.000002
+ 21
+-101.000004
+  0
+LWPOLYLINE
+  5
+1AA
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    8
+ 70
+    1
+ 43
+0
+ 10
+89.49988191210528
+ 20
+-48.46502463621148
+ 42
+-0.4142134475729586
+ 10
+88.49988149933509
+ 20
+-49.46502383148868
+ 10
+81.49986849933013
+ 20
+-49.46502094208974
+ 42
+-0.4142136771732845
+ 10
+80.49986891210084
+ 20
+-48.46502013736696
+ 10
+80.49988669648094
+ 20
+-26.36501424796947
+ 42
+-0.4142136893682811
+ 10
+81.49988793479217
+ 20
+-25.3650150526931
+ 10
+88.49990093478939
+ 20
+-25.36502372089
+ 42
+-0.4142134353778756
+ 10
+89.49989969647751
+ 20
+-26.36502452561194
+  0
+LINE
+  5
+1AB
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-91.75736064130794
+ 20
+84.75735435869181
+ 11
+-108.0000030000001
+ 21
+101.0000030000001
+  0
+ARC
+  5
+1AC
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+102.0000068014183
+ 20
+45.51472343213361
+ 40
+6.000003
+100
+AcDbArc
+ 50
+359.9999522573319
+ 51
+44.99994598102538
+  0
+ARC
+  5
+1AD
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+104.5
+ 20
+-104.5
+ 40
+4.949746999999999
+100
+AcDbArc
+ 50
+225.0000491106679
+ 51
+44.99995088931814
+  0
+LWPOLYLINE
+  5
+1AE
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    8
+ 70
+    1
+ 43
+0
+ 10
+88.49998559674569
+ 20
+49.04999409803132
+ 42
+-0.414213448472205
+ 10
+89.49998435843381
+ 20
+48.04999324860255
+ 10
+89.49996558604084
+ 20
+25.94999313800338
+ 42
+-0.4142134344786167
+ 10
+88.49996517327068
+ 20
+24.94999398743303
+ 10
+81.49995217326547
+ 20
+24.94999687683196
+ 42
+-0.4142136902676078
+ 10
+80.49995258603631
+ 20
+25.94999772626158
+ 10
+80.49997135843739
+ 20
+48.05000361565867
+ 42
+-0.4142136762739526
+ 10
+81.49997259674856
+ 20
+49.05000276622821
+  0
+ARC
+  5
+1AF
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-68.59999961680204
+ 20
+78.39999966281098
+ 40
+6.600000000000002
+100
+AcDbArc
+ 50
+0
+ 51
+90.00000549209159
+  0
+CIRCLE
+  5
+1B0
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-73.00000029802321
+ 20
+45.99999999999997
+ 40
+2.1
+  0
+LINE
+  5
+1B1
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+107.9999958014183
+ 20
+28.48528143213361
+ 11
+108.0000098014162
+ 21
+45.51471843213364
+  0
+CIRCLE
+  5
+1B2
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+72.99999880429074
+ 20
+-28.40582906392618
+ 40
+2.1
+  0
+CIRCLE
+  5
+1B3
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-97.00000000000001
+ 20
+-45.99999904632571
+ 40
+2.1
+  0
+CIRCLE
+  5
+1B4
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+104.5
+ 20
+-104.5
+ 40
+1.6
+  0
+ARC
+  5
+1B5
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+14.949746
+ 20
+-95.00000100000005
+ 40
+10
+100
+AcDbArc
+ 50
+90
+ 51
+180
+  0
+ARC
+  5
+1B6
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+95.99991999999997
+ 20
+-80.51464000000001
+ 40
+5.999999999999996
+100
+AcDbArc
+ 50
+180
+ 51
+224.9999999999997
+  0
+CIRCLE
+  5
+1B7
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+96.9999988079071
+ 20
+27.99999999999997
+ 40
+2.1
+  0
+LINE
+  5
+1B8
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+106.2425921967734
+ 20
+-24.69305466387354
+ 11
+91.7573246545353
+ 21
+-10.20776126520852
+  0
+LINE
+  5
+1B9
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+108.0000026688571
+ 20
+101.0000033311441
+ 11
+91.75738100000001
+ 21
+84.75738299999998
+  0
+LINE
+  5
+1BA
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+16.59999896136378
+ 20
+85.00000099999997
+ 11
+75.51471800000002
+ 21
+85.00000099999997
+  0
+ARC
+  5
+1BB
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+3.399999346584082
+ 20
+26.09999999999999
+ 40
+6.600000000000001
+100
+AcDbArc
+ 50
+270
+ 51
+0
+  0
+CIRCLE
+  5
+1BC
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+0
+ 20
+-114.5
+ 40
+1.6
+  0
+LINE
+  5
+1BD
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+90.00002199999996
+ 20
+68.48529843213365
+ 11
+90.00002199999996
+ 21
+80.51474200000004
+  0
+LINE
+  5
+1BE
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+89.99991999999997
+ 20
+-80.51464000000001
+ 11
+89.99991999999997
+ 21
+-68.93568466387364
+  0
+ARC
+  5
+1BF
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+104.5
+ 20
+104.5
+ 40
+4.949746999999999
+100
+AcDbArc
+ 50
+315.0000491106824
+ 51
+134.9999508893309
+  0
+LINE
+  5
+1C0
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+9.99999875226581
+ 20
+78.40000109182174
+ 11
+9.999999346584083
+ 21
+26.10000007499999
+  0
+CIRCLE
+  5
+1C1
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-6.000000000000001
+ 20
+-9.999999776482614
+ 40
+1.6
+  0
+ARC
+  5
+1C2
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+16.59999896136378
+ 20
+78.40000099999995
+ 40
+6.60000000000001
+100
+AcDbArc
+ 50
+90
+ 51
+179.9999991462264
+  0
+ARC
+  5
+1C3
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+101.9999331967736
+ 20
+-45.96512866387364
+ 40
+6.000000999999995
+100
+AcDbArc
+ 50
+314.9999594857688
+ 51
+359.999952257332
+  0
+ARC
+  5
+1C4
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+95.99997125586515
+ 20
+-5.965123663877562
+ 40
+6.000001999999999
+100
+AcDbArc
+ 50
+179.9999544369553
+ 51
+224.9999392286764
+  0
+CIRCLE
+  5
+1C5
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-6.000000000000001
+ 20
+9.999999999999973
+ 40
+1.6
+  0
+CIRCLE
+  5
+1C6
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+96.99999880429073
+ 20
+-28.40582906392618
+ 40
+2.1
+  0
+ARC
+  5
+1C7
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+96.00002199999994
+ 20
+80.51474200000004
+ 40
+6.000000000000001
+100
+AcDbArc
+ 50
+134.9999999999997
+ 51
+180
+  0
+ARC
+  5
+1C8
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-104.5
+ 20
+104.5
+ 40
+4.949747000000003
+100
+AcDbArc
+ 50
+45.00005729578712
+ 51
+224.999950889331
+  0
+ARC
+  5
+1C9
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+75.51471800000002
+ 20
+90.99999999999996
+ 40
+5.999999000000003
+100
+AcDbArc
+ 50
+270
+ 51
+315.0000405142409
+  0
+LINE
+  5
+1CA
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+89.99996925586706
+ 20
+-5.965118891970124
+ 11
+89.99997838599623
+ 21
+5.514733432133142
+  0
+ARC
+  5
+1CB
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-43.48685149761263
+ 20
+2.899999999999949
+ 40
+6.600000000000035
+100
+AcDbArc
+ 50
+72.74206024626797
+ 51
+89.99999999999993
+  0
+ARC
+  5
+1CC
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-74
+ 20
+-2.514718999999928
+ 40
+5.999998
+100
+AcDbArc
+ 50
+180
+ 51
+225.000020257123
+  0
+ARC
+  5
+1CD
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+73.99996799999997
+ 20
+-2.514744999999976
+ 40
+5.999997999999998
+100
+AcDbArc
+ 50
+314.9999324762494
+ 51
+359.999952257332
+  0
+ARC
+  5
+1CE
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+73.99997199999996
+ 20
+2.514692000000053
+ 40
+5.999997999999996
+100
+AcDbArc
+ 50
+359.9999522573319
+ 51
+44.99997974287654
+  0
+LINE
+  5
+1CF
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+61.75730968711775
+ 20
+-23.24265668711709
+ 11
+78.24260200000003
+ 21
+-6.757389000000047
+  0
+LINE
+  5
+1D0
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+38.24264100000005
+ 20
+-23.24264099999999
+ 11
+21.75735800000007
+ 21
+-6.757359999999948
+  0
+LINE
+  5
+1D1
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+19.99999900000012
+ 20
+-2.514718999999928
+ 11
+19.99999900000012
+ 21
+2.514717999999989
+  0
+ARC
+  5
+1D2
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+96.00002399999585
+ 20
+68.48529143213368
+ 40
+6.000002
+100
+AcDbArc
+ 50
+179.9999331543759
+ 51
+224.9999459810388
+  0
+ARC
+  5
+1D3
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-101.9999998014182
+ 20
+45.51471843213361
+ 40
+6.000002999999998
+100
+AcDbArc
+ 50
+134.9999891522462
+ 51
+180
+  0
+ARC
+  5
+1D4
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+101.9999928014183
+ 20
+28.48528643213365
+ 40
+6.000000999999998
+100
+AcDbArc
+ 50
+314.9999594857688
+ 51
+359.999952257332
+  0
+LINE
+  5
+1D5
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+79.75736098001144
+ 20
+86.75736301998852
+ 11
+101.000003
+ 21
+108.0000030000001
+  0
+LINE
+  5
+1D6
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-108.0000028014183
+ 20
+28.48528143213366
+ 11
+-108.0000028014182
+ 21
+45.51471843213361
+  0
+LINE
+  5
+1D7
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-90.00000399999998
+ 20
+-80.51472199999992
+ 11
+-90.00000399999998
+ 21
+-68.48528313573271
+  0
+ARC
+  5
+1D8
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+101.9999471967735
+ 20
+-28.93569166387358
+ 40
+6.000002999999997
+100
+AcDbArc
+ 50
+359.9999618085375
+ 51
+44.99994598102589
+  0
+ARC
+  5
+1D9
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-104.5
+ 20
+-104.5
+ 40
+4.949747000000003
+100
+AcDbArc
+ 50
+135.0000572957871
+ 51
+314.9999427042126
+  0
+LINE
+  5
+1DA
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+58.86618899999996
+ 20
+-75.00000499999997
+ 11
+-58.86619199999997
+ 21
+-75.00001
+  0
+LINE
+  5
+1DB
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+78.24261277290539
+ 20
+6.757329772905546
+ 11
+61.75734939422522
+ 21
+23.24262639422477
+  0
+ARC
+  5
+1DC
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-56.51314973337072
+ 20
+2.899999999999892
+ 40
+6.600000000000099
+100
+AcDbArc
+ 50
+90.00000000000026
+ 51
+107.257941435911
+  0
+LINE
+  5
+1DD
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+91.75733480141831
+ 20
+9.757372432133678
+ 11
+106.242631195643
+ 21
+24.24264203790837
+  0
+ARC
+  5
+1DE
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-96.00000000000001
+ 20
+80.514718
+ 40
+5.999996000000007
+100
+AcDbArc
+ 50
+2.86491631352822e-005
+ 51
+44.99997974286762
+  0
+ARC
+  5
+1DF
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-101.9999998014182
+ 20
+28.48528143213366
+ 40
+6.000001000000008
+100
+AcDbArc
+ 50
+180
+ 51
+224.9999932476294
+  0
+ARC
+  5
+1E0
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-96.00000000000001
+ 20
+5.514717648865743
+ 40
+5.999996000000003
+100
+AcDbArc
+ 50
+0
+ 51
+44.99999194173768
+  0
+LINE
+  5
+1E1
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+101.0000033311432
+ 20
+-108.0000026688562
+ 11
+79.75736199999993
+ 21
+-86.757362
+  0
+LINE
+  5
+1E2
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-4.949746999999888
+ 20
+-114.500004
+ 11
+-4.949748
+ 21
+-95.00000100000005
+  0
+LINE
+  5
+1E3
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-41.52880366608297
+ 20
+9.202860357761534
+ 11
+-24.64195216847044
+ 21
+3.956787768584491
+  0
+LINE
+  5
+1E4
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-108.0000030000001
+ 20
+-101.000004
+ 11
+-91.75735660577423
+ 21
+-84.75735839422539
+  0
+ARC
+  5
+1E5
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-101.9999998014182
+ 20
+-28.48528113573275
+ 40
+6.000003000000005
+100
+AcDbArc
+ 50
+135.0000067523705
+ 51
+179.9999904545205
+  0
+LINE
+  5
+1E6
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-42.48528299999997
+ 20
+-24.99999999999997
+ 11
+-57.5147199999999
+ 21
+-25.00000100000003
+  0
+ARC
+  5
+1E7
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+28.06618900000012
+ 20
+-37.60000699999993
+ 40
+6.6
+100
+AcDbArc
+ 50
+44.99998158443729
+ 51
+90
+  0
+LINE
+  5
+1E8
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-108.0000028014183
+ 20
+-45.51471813573266
+ 11
+-108.0000028014181
+ 21
+-28.48528013573275
+  0
+ARC
+  5
+1E9
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+95.99997438599405
+ 20
+5.514728432133155
+ 40
+5.999996000000002
+100
+AcDbArc
+ 50
+134.9999701854155
+ 51
+179.9999522496986
+  0
+LINE
+  5
+1EA
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-75.51471857816568
+ 20
+84.99999900000005
+ 11
+-68.60000024944557
+ 21
+84.99999966281095
+  0
+LINE
+  5
+1EB
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+106.2426518014184
+ 20
+49.75736043213372
+ 11
+91.75737789866487
+ 21
+64.24265333080274
+  0
+ARC
+  5
+1EC
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-96.00000599999979
+ 20
+68.48528404382861
+ 40
+6.000002000000006
+100
+AcDbArc
+ 50
+315.0000485724514
+ 51
+1.909095910416281e-005
+  0
+LINE
+  5
+1ED
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-106.2426418066024
+ 20
+49.75736204382856
+ 11
+-91.7573578066024
+ 21
+64.24264304382856
+  0
+ARC
+  5
+1EE
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+75.51471800000002
+ 20
+-91
+ 40
+6.000000999999995
+100
+AcDbArc
+ 50
+44.99995948576956
+ 51
+90
+  0
+ARC
+  5
+1EF
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+95.99991599999966
+ 20
+-68.93568666387364
+ 40
+5.999995999999995
+100
+AcDbArc
+ 50
+134.9999716618345
+ 51
+179.9999809281414
+  0
+ARC
+  5
+1F0
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-28.066192
+ 20
+-37.60000699999993
+ 40
+6.599999000000003
+100
+AcDbArc
+ 50
+89.99999131882001
+ 51
+135.0000122770433
+  0
+ARC
+  5
+1F1
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-96.000006
+ 20
+-5.514718135732636
+ 40
+6.000002000000002
+100
+AcDbArc
+ 50
+315.00001350474
+ 51
+0
+  0
+ARC
+  5
+1F2
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-75.5147175781658
+ 20
+90.99999999999996
+ 40
+6.000000999999998
+100
+AcDbArc
+ 50
+224.9999498850229
+ 51
+269.9999904507061
+  0
+LINE
+  5
+1F3
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+75.51471800000002
+ 20
+-84.99999899999999
+ 11
+14.949746
+ 21
+-85.00000100000005
+  0
+LINE
+  5
+1F4
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-90.00000399999999
+ 20
+-5.514718135732636
+ 11
+-90.00000400000002
+ 21
+5.514717648865743
+  0
+ARC
+  5
+1F5
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-26
+ 20
+-2.514718999999928
+ 40
+6
+100
+AcDbArc
+ 50
+315.0000067523727
+ 51
+0
+  0
+LINE
+  5
+1F6
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-28.066191
+ 20
+-31.000008
+ 11
+28.06618900000012
+ 21
+-31.00000699999993
+  0
+LINE
+  5
+1F7
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-91.7573578066024
+ 20
+9.75735864886579
+ 11
+-106.2426416956442
+ 21
+24.24264053790758
+  0
+LINE
+  5
+1F8
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-79.75736299999993
+ 20
+-86.757362
+ 11
+-101.0000038311441
+ 21
+-108.0000031688562
+  0
+LINE
+  5
+1F9
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-55.39999902248383
+ 20
+19.49999999999998
+ 11
+3.399999346584081
+ 21
+19.49999999999999
+  0
+LINE
+  5
+1FA
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+4.949745999999999
+ 20
+-95.00000100000005
+ 11
+4.949746999998297
+ 21
+-114.500004
+  0
+LINE
+  5
+1FB
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-75.35804701657889
+ 20
+3.956787860535655
+ 11
+-58.47119774994962
+ 21
+9.202860300274107
+  0
+ARC
+  5
+1FC
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+26
+ 20
+-2.514718999999928
+ 40
+6.000000999999999
+100
+AcDbArc
+ 50
+180
+ 51
+224.9999932476287
+  0
+LINE
+  5
+1FD
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+91.75727519677358
+ 20
+-64.6930416638736
+ 11
+106.2425715909983
+ 21
+-50.20777305809891
+  0
+LINE
+  5
+1FE
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-61.75735968711933
+ 20
+-23.24264068711933
+ 11
+-78.24263799999994
+ 21
+-6.757359999999979
+  0
+ARC
+  5
+1FF
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-14.949748
+ 20
+-95.00000100000005
+ 40
+10
+100
+AcDbArc
+ 50
+0
+ 51
+90.00000000000006
+  0
+CIRCLE
+  5
+200
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-73.00000029802321
+ 20
+-27.99999900162223
+ 40
+2.1
+  0
+CIRCLE
+  5
+201
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+104.5
+ 20
+104.5
+ 40
+1.6
+  0
+CIRCLE
+  5
+202
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-97.00000000000001
+ 20
+46.00000008940694
+ 40
+2.1
+  0
+CIRCLE
+  5
+203
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+6.000000000000001
+ 20
+-10.00000000000003
+ 40
+1.6
+  0
+ARC
+  5
+204
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+58.86618999999996
+ 20
+68.40000700000004
+ 40
+6.600003000000001
+100
+AcDbArc
+ 50
+315.0000122770451
+ 51
+90
+  0
+ARC
+  5
+205
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+26.59999942500008
+ 20
+37.60000657206086
+ 40
+6.600000000000002
+100
+AcDbArc
+ 50
+180
+ 51
+269.9999999999999
+  0
+LWPOLYLINE
+  5
+206
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    8
+ 70
+    1
+ 43
+0
+ 10
+-88.50007748157623
+ 20
+49.0500009874327
+ 10
+-81.50006448157639
+ 20
+49.05000387683164
+ 42
+-0.4142136832707942
+ 10
+-80.50006406880583
+ 20
+48.05000387683172
+ 10
+-80.50006406880584
+ 20
+25.94999798743538
+ 42
+-0.414213683270788
+ 10
+-81.50006448157637
+ 20
+24.94999798743547
+ 10
+-88.50007748157623
+ 20
+24.95000087683458
+ 42
+-0.4142134414754093
+ 10
+-89.50007706880569
+ 20
+25.95000087683448
+ 10
+-89.50007706880571
+ 20
+48.05000098743278
+ 42
+-0.4142134414753999
+  0
+CIRCLE
+  5
+207
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+6.000000000000001
+ 20
+9.999999776482555
+ 40
+1.6
+  0
+LINE
+  5
+208
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+21.75735931288068
+ 20
+6.757358687119279
+ 11
+38.24264100000005
+ 21
+23.24264100000002
+  0
+ARC
+  5
+209
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-95.99999999999979
+ 20
+-68.48528113573271
+ 40
+5.999995999999999
+100
+AcDbArc
+ 50
+359.9999809281414
+ 51
+44.99999865910544
+  0
+ARC
+  5
+20A
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+58.86618899999996
+ 20
+-68.40000699999997
+ 40
+6.599997999999996
+100
+AcDbArc
+ 50
+270
+ 51
+44.99998158443402
+  0
+CIRCLE
+  5
+20B
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-104.5
+ 20
+-104.5
+ 40
+1.6
+  0
+LINE
+  5
+20C
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+79.99996599999788
+ 20
+-2.51474999999997
+ 11
+79.99997099999995
+ 21
+2.514687000000095
+  0
+CIRCLE
+  5
+20D
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+73
+ 20
+45.99999999999997
+ 40
+2.1
+  0
+LWPOLYLINE
+  5
+20E
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    8
+ 70
+    1
+ 43
+0
+ 10
+-88.50005512983444
+ 20
+-49.04999869103178
+ 42
+-0.4142134414754103
+ 10
+-89.50005471706392
+ 20
+-48.04999869103185
+ 10
+-89.50005471706392
+ 20
+-25.94999858043347
+ 42
+-0.4142134414754207
+ 10
+-88.50005512983442
+ 20
+-24.94999858043355
+ 10
+-81.50004212983436
+ 20
+-24.94999569103462
+ 42
+-0.4142136832707245
+ 10
+-80.50004171706406
+ 20
+-25.94999569103453
+ 10
+-80.50004171706404
+ 20
+-48.05000158043086
+ 42
+-0.4142136832707776
+ 10
+-81.50004212983454
+ 20
+-49.05000158043079
+  0
+LINE
+  5
+20F
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+28.06618900000012
+ 20
+31.00000800000001
+ 11
+26.59999942500007
+ 21
+31.00000657206087
+  0
+CIRCLE
+  5
+210
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-73.00000029802321
+ 20
+28.00000086426732
+ 40
+2.1
+  0
+CIRCLE
+  5
+211
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-97.00000000000001
+ 20
+-27.99999904632571
+ 40
+2.1
+  0
+LINE
+  5
+212
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-20
+ 20
+-2.346072589177055
+ 11
+-20
+ 21
+-2.514718999999928
+  0
+ARC
+  5
+213
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-42.48528199999987
+ 20
+-19.00000000000006
+ 40
+6
+100
+AcDbArc
+ 50
+269.9999904507024
+ 51
+314.9999932476273
+  0
+CIRCLE
+  5
+214
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+72.99999791383743
+ 20
+27.99999999999997
+ 40
+2.1
+  0
+ARC
+  5
+215
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+28.06619000000001
+ 20
+37.60000699999996
+ 40
+6.599999000000003
+100
+AcDbArc
+ 50
+269.9999913188209
+ 51
+315.0000122770434
+  0
+LINE
+  5
+216
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+26.59999907499991
+ 20
+75.00001011363642
+ 11
+58.86618999999996
+ 21
+75.00001000000005
+  0
+ARC
+  5
+217
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+57.51467300000002
+ 20
+-19.000012
+ 40
+6
+100
+AcDbArc
+ 50
+269.9999618028203
+ 51
+314.9999459810254
+  0
+ARC
+  5
+218
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-101.9999998014182
+ 20
+-45.51471813573266
+ 40
+6.000001000000008
+100
+AcDbArc
+ 50
+180
+ 51
+224.9999932476294
+  0
+LINE
+  5
+219
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+63.53309400000001
+ 20
+63.73310499999998
+ 11
+32.73309504872441
+ 21
+32.9331039512757
+  0
+LINE
+  5
+21A
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-106.2426418014184
+ 20
+-24.2426401357327
+ 11
+-91.75736289866728
+ 21
+-9.757359237065389
+  0
+ARC
+  5
+21B
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-57.51471900000001
+ 20
+-19.00000000000006
+ 40
+6.000000000000004
+100
+AcDbArc
+ 50
+224.9999999999996
+ 51
+269.999990450705
+  0
+LINE
+  5
+21C
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+19.99999907500001
+ 20
+68.40000961069723
+ 11
+19.99999942500008
+ 21
+37.60000649706087
+  0
+ARC
+  5
+21D
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-96.00000000000001
+ 20
+-80.51471899999994
+ 40
+6.00000099999999
+100
+AcDbArc
+ 50
+315.0000270094872
+ 51
+359.9999713508369
+  0
+ARC
+  5
+21E
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-26.59999999999991
+ 20
+-2.346072589177055
+ 40
+6.600000000000001
+100
+AcDbArc
+ 50
+0
+ 51
+72.74206024626933
+  0
+ARC
+  5
+21F
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+42.485281
+ 20
+-19.00000000000006
+ 40
+6.000000000000002
+100
+AcDbArc
+ 50
+225.0000067523727
+ 51
+270
+  0
+LINE
+  5
+220
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-43.48685149761262
+ 20
+9.499999999999984
+ 11
+-56.51314973337075
+ 21
+9.499999999999991
+  0
+LINE
+  5
+221
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-63.53309987715147
+ 20
+-63.73310112284844
+ 11
+-32.73309700000004
+ 21
+-32.93310399999999
+  0
+ARC
+  5
+222
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-75.51471900000001
+ 20
+-91
+ 40
+5.999998999999997
+100
+AcDbArc
+ 50
+90.00000954929816
+ 51
+135.000040514231
+  0
+ARC
+  5
+223
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-58.86619199999997
+ 20
+-68.40000699999997
+ 40
+6.600003000000001
+100
+AcDbArc
+ 50
+135.0000122770349
+ 51
+270
+  0
+ARC
+  5
+224
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+57.51470500000005
+ 20
+18.99998799999997
+ 40
+6.000000999999997
+100
+AcDbArc
+ 50
+44.99995948576999
+ 51
+89.99995225351714
+  0
+LINE
+  5
+225
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-21.75735881288072
+ 20
+-6.75735918711916
+ 11
+-38.24264199999993
+ 21
+-23.24264099999999
+  0
+LINE
+  5
+226
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+32.73309500000006
+ 20
+-32.93310399999999
+ 11
+63.53309400000001
+ 21
+-63.73310499999994
+  0
+ARC
+  5
+227
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-73.39999899999998
+ 20
+-2.346072439738464
+ 40
+6.599999999999994
+100
+AcDbArc
+ 50
+107.2579414359114
+ 51
+180
+  0
+ARC
+  5
+228
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+0
+ 20
+-114.5
+ 40
+4.949747000000002
+100
+AcDbArc
+ 50
+180.0000463009879
+ 51
+359.9999536990121
+  0
+CIRCLE
+  5
+229
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+97.0000008940697
+ 20
+45.99999999999997
+ 40
+2.1
+  0
+LINE
+  5
+22A
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-75.51472000000001
+ 20
+-85.00000100000008
+ 11
+-14.94974800000001
+ 21
+-85.00000100000005
+  0
+LINE
+  5
+22B
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-91.75735780141828
+ 20
+-64.24263913573269
+ 11
+-106.2426416956442
+ 21
+-49.75735902995874
+  0
+ARC
+  5
+22C
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+26
+ 20
+2.514717999999989
+ 40
+6.000000000000004
+100
+AcDbArc
+ 50
+135.0000000000002
+ 51
+180
+  0
+ARC
+  5
+22D
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+42.485281
+ 20
+18.99999999999997
+ 40
+6.000000000000001
+100
+AcDbArc
+ 50
+90
+ 51
+134.9999932476266
+  0
+LINE
+  5
+22E
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+57.51471000000004
+ 20
+24.999988
+ 11
+42.48527200000001
+ 21
+24.99999999999997
+  0
+LINE
+  5
+22F
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+42.485231
+ 20
+-25.00000100000003
+ 11
+57.51466900000003
+ 21
+-25.00001300000002
+  0
+LINE
+  5
+230
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-79.99999800000001
+ 20
+-2.514718999999928
+ 11
+-79.99999899999997
+ 21
+-2.346072439738463
+  0
+ARC
+  5
+231
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+26.59999907499991
+ 20
+68.4000101136364
+ 40
+6.599999999999966
+100
+AcDbArc
+ 50
+90
+ 51
+180.0000043534085
+  0
+CIRCLE
+  5
+232
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+72.99999791383743
+ 20
+-46.2736748246277
+ 40
+2.1
+  0
+CIRCLE
+  5
+233
+100
+AcDbEntity
+  8
+Tatra-RC2_Lasercut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-73.00000029802321
+ 20
+-45.99999900162224
+ 40
+2.1
+  0
+LWPOLYLINE
+  5
+234
+100
+AcDbEntity
+  8
+Prusa i3
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    8
+ 70
+    1
+ 43
+0
+ 10
+20
+ 20
+5
+ 10
+20
+ 20
+-5
+ 10
+40
+ 20
+-25
+ 10
+50
+ 20
+-25
+ 10
+70
+ 20
+-5
+ 10
+70
+ 20
+5
+ 10
+50
+ 20
+25
+ 10
+40
+ 20
+25
+  0
+LWPOLYLINE
+  5
+235
+100
+AcDbEntity
+  8
+Prusa i3
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    8
+ 70
+    1
+ 43
+0
+ 10
+-20
+ 20
+-5
+ 10
+-20
+ 20
+5
+ 10
+-40
+ 20
+25
+ 10
+-60
+ 20
+25
+ 10
+-80
+ 20
+5
+ 10
+-80
+ 20
+-5
+ 10
+-60
+ 20
+-25
+ 10
+-40
+ 20
+-25
+  0
+LWPOLYLINE
+  5
+236
+100
+AcDbEntity
+  8
+Prusa i3
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    8
+ 70
+    1
+ 43
+0
+ 10
+-90
+ 20
+47.00703689604421
+ 42
+-0.4142135623730955
+ 10
+-86
+ 20
+51.00703689604421
+ 10
+-84
+ 20
+51.00703689604421
+ 42
+-0.4142135623730955
+ 10
+-80
+ 20
+47.00703689604421
+ 10
+-80
+ 20
+24.00703689604422
+ 42
+-0.4142135623730953
+ 10
+-84
+ 20
+20.00703689604421
+ 10
+-86
+ 20
+20.00703689604421
+ 42
+-0.4142135623730953
+ 10
+-90
+ 20
+24.00703689604422
+  0
+LWPOLYLINE
+  5
+237
+100
+AcDbEntity
+  8
+Prusa i3
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    8
+ 70
+    1
+ 43
+0
+ 10
+-86
+ 20
+-50.00000000000001
+ 42
+-0.414213562373095
+ 10
+-90
+ 20
+-46.00000000000001
+ 10
+-90
+ 20
+-23
+ 42
+-0.414213562373095
+ 10
+-86
+ 20
+-19
+ 10
+-84
+ 20
+-19
+ 42
+-0.4142135623730953
+ 10
+-80
+ 20
+-23
+ 10
+-80
+ 20
+-46.00000000000001
+ 42
+-0.4142135623730945
+ 10
+-84
+ 20
+-50
+  0
+CIRCLE
+  5
+238
+100
+AcDbEntity
+  8
+Prusa i3
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-75
+ 20
+-35
+ 40
+1.5
+  0
+CIRCLE
+  5
+239
+100
+AcDbEntity
+  8
+Prusa i3
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-95
+ 20
+35
+ 40
+1.5
+  0
+CIRCLE
+  5
+23A
+100
+AcDbEntity
+  8
+Prusa i3
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-95
+ 20
+-35
+ 40
+1.5
+  0
+LWPOLYLINE
+  5
+23B
+100
+AcDbEntity
+  8
+Prusa i3
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+   45
+ 70
+    1
+ 43
+0
+ 10
+78
+ 20
+85
+ 10
+-78
+ 20
+85
+ 10
+-103
+ 20
+110
+ 10
+-105
+ 20
+110
+ 10
+-107
+ 20
+110
+ 10
+-110
+ 20
+107
+ 10
+-110
+ 20
+105
+ 10
+-110
+ 20
+103
+ 10
+-90
+ 20
+83
+ 10
+-90
+ 20
+63.00000000000001
+ 10
+-100
+ 20
+53.00000000000001
+ 10
+-100
+ 20
+15
+ 10
+-90
+ 20
+5
+ 10
+-90
+ 20
+-5
+ 10
+-100
+ 20
+-15
+ 10
+-100
+ 20
+-53.00000000000001
+ 10
+-90
+ 20
+-63.00000000000001
+ 10
+-90
+ 20
+-83
+ 10
+-110
+ 20
+-103
+ 10
+-110
+ 20
+-107
+ 10
+-107
+ 20
+-110
+ 10
+-105
+ 20
+-110
+ 10
+-103
+ 20
+-110
+ 10
+-78
+ 20
+-85
+ 10
+78
+ 20
+-85
+ 10
+103
+ 20
+-110
+ 10
+105
+ 20
+-110
+ 10
+107
+ 20
+-110
+ 10
+110
+ 20
+-107
+ 10
+110
+ 20
+-103
+ 10
+90
+ 20
+-83
+ 10
+70
+ 20
+-63.00000000000001
+ 10
+70
+ 20
+-43
+ 10
+90
+ 20
+-23
+ 10
+100
+ 20
+-13
+ 10
+100
+ 20
+13
+ 10
+90
+ 20
+23
+ 10
+70
+ 20
+43
+ 10
+70
+ 20
+63.00000000000001
+ 10
+110
+ 20
+103
+ 10
+110
+ 20
+106
+ 10
+110
+ 20
+107
+ 10
+107
+ 20
+110
+ 10
+103
+ 20
+110
+ 10
+80
+ 20
+87.00000000000001
+  0
+CIRCLE
+  5
+23C
+100
+AcDbEntity
+  8
+Prusa i3
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+104.5
+ 20
+-104.5
+ 40
+1.5
+  0
+LWPOLYLINE
+  5
+23D
+100
+AcDbEntity
+  8
+Prusa i3
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    6
+ 70
+    1
+ 43
+0
+ 10
+28
+ 20
+35
+ 10
+38
+ 20
+45
+ 10
+40
+ 20
+47
+ 10
+68
+ 20
+75
+ 10
+-68
+ 20
+75
+ 10
+-28.00000000000001
+ 20
+35
+  0
+CIRCLE
+  5
+23E
+100
+AcDbEntity
+  8
+Prusa i3
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+75
+ 20
+0
+ 40
+1.5
+  0
+LWPOLYLINE
+  5
+23F
+100
+AcDbEntity
+  8
+Prusa i3
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+68
+ 20
+-75
+ 10
+28
+ 20
+-35
+ 10
+-28.00000000000001
+ 20
+-35
+ 10
+-68
+ 20
+-75
+  0
+LWPOLYLINE
+  5
+240
+100
+AcDbEntity
+  8
+Prusa i3
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    8
+ 70
+    1
+ 43
+0
+ 10
+84
+ 20
+-16.1371236070772
+ 42
+-0.4142135623730951
+ 10
+80
+ 20
+-12.1371236070772
+ 10
+80
+ 20
+10.8628763929228
+ 42
+-0.4142135623730951
+ 10
+84
+ 20
+14.8628763929228
+ 10
+86
+ 20
+14.86287639292281
+ 42
+-0.414213562373095
+ 10
+90
+ 20
+10.8628763929228
+ 10
+90
+ 20
+-12.1371236070772
+ 42
+-0.414213562373095
+ 10
+86
+ 20
+-16.1371236070772
+  0
+CIRCLE
+  5
+241
+100
+AcDbEntity
+  8
+Prusa i3
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+0
+ 20
+-21
+ 40
+1.5
+  0
+CIRCLE
+  5
+242
+100
+AcDbEntity
+  8
+Prusa i3
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+0
+ 20
+20
+ 40
+1.5
+  0
+CIRCLE
+  5
+243
+100
+AcDbEntity
+  8
+Prusa i3
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+95
+ 20
+0
+ 40
+1.5
+  0
+CIRCLE
+  5
+244
+100
+AcDbEntity
+  8
+Prusa i3
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-104.5
+ 20
+104.5
+ 40
+1.5
+  0
+CIRCLE
+  5
+245
+100
+AcDbEntity
+  8
+Prusa i3
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+104.5
+ 20
+104.5
+ 40
+1.5
+  0
+CIRCLE
+  5
+246
+100
+AcDbEntity
+  8
+Prusa i3
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-104.5
+ 20
+-104.5
+ 40
+1.5
+  0
+CIRCLE
+  5
+247
+100
+AcDbEntity
+  8
+Prusa i3
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-75
+ 20
+35
+ 40
+1.5
+  0
+ENDSEC
+  0
+SECTION
+  2
+OBJECTS
+  0
+DICTIONARY
+  5
+C
+330
+0
+100
+AcDbDictionary
+281
+    1
+  3
+ACAD_GROUP
+350
+D
+  0
+DICTIONARY
+  5
+D
+330
+C
+100
+AcDbDictionary
+281
+    1
+  0
+ENDSEC
+  0
+EOF
